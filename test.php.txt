@@ -1,0 +1,36 @@
+  function display_checkbox_list($table, $condition = array(), $order_by_fieled = '', $order_by_type = "desc", $select_name = '', $select_id = '', $select_value = '', $option_name) {
+        $return_value = '';
+        $this->db->from($table);
+        if ($condition) {
+            $this->db->where($condition);
+        }
+        if ($order_by_fieled) {
+            $this->db->order_by($order_by_fieled, $order_by_type);
+        }
+        $query = $this->db->get();
+        if ($query->num_rows() > 0) {
+            $results = $query->result_array();
+            //print_r($results);
+            $i = 0;
+            foreach ($results as $res) {
+
+                if ($res[$select_id] == $select_name) {
+
+                    $return_value.='<input  checked type="checkbox" value="' . $res[$select_id] . '" name="' . $option_name . '" >' . $res[$select_value];
+                    $return_value.='<br/>';
+                } else {
+                    if ($i == 0) {
+                        $return_value.='<input checked type="checkbox" value="' . $res[$select_id] . '" name="' . $option_name . '" >' . $res[$select_value];
+                        $return_value.='<br/>';
+                    } else {
+                        $return_value.='<input type="checkbox" value="' . $res[$select_id] . '" name="' . $option_name . '" >' . $res[$select_value];
+                        $return_value.='<br/>';
+                    }
+                }
+                $i++;
+            }
+            return $return_value;
+        } else {
+            return $return_value;
+        }
+    }

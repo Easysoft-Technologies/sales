@@ -1,0 +1,18 @@
+Customer ID,Customer Name,Invoice/CM #,Date,Sales Representative ID,Quantity,Item ID,Description,G/L Account,Unit Price,Amount,U/M ID,Ship to City
+QTech,Q Tech for General Trading LLC,DC96025,02/08/2015,,1,LK0141151,K.Blonde Toner Pearl 60ml,40000SHLK,5.16,-5.16,60ml,DUBAI
+QTech,Q Tech for General Trading LLC,DC96025,02/08/2015,,5,LK2244671,Water pomade 100 ml.,40000SHLK,29.02,-145.1,100ml,DUBAI
+QTech,Q Tech for General Trading LLC,DC96026,02/08/2015,,2,LK0141151,K.Blonde Toner Pearl 60ml,40000SHLK,5.16,-10.32,60ml,DUBAI
+QTech,Q Tech for General Trading LLC,DC96026,02/08/2015,,1,LK0020021,Collage mix tones  0/02   60 ml.,40000SHLK,17.41,-17.41,60ml,DUBAI
+QTech,Q Tech for General Trading LLC,DC96026,02/08/2015,,1,LK0028171,Collage   8/17   60 ml.,40000SHLK,17.41,-17.41,60ml,DUBAI
+QTech,Q Tech for General Trading LLC,DC96027,02/08/2015,,1,LK0141151,K.Blonde Toner Pearl 60ml,40000SHLK,5.16,-5.16,60ml,DUBAI
+QTech,Q Tech for General Trading LLC,DC96027,02/08/2015,,1,LK0029982,Collage clair  12/10    60 ml,40000SHLK,17.41,-17.41,60ml,DUBAI
+126NLP,Nature's Life Pharmacy,DC96028,02/08/2015,NS,1,D102021,Antioxidant HydraMist (5.1 oz),40000SSD,189,-189,<Each>,DUBAI
+126NLP,Nature's Life Pharmacy,DC96028,02/08/2015,NS,1,D110641,AGE smart® skinperfect primer spf30  0.75 oz. (22 mL),40000SSD,219,-219,<Each>,DUBAI
+126NLP,Nature's Life Pharmacy,DC96028,02/08/2015,NS,1,D110662,Total Eye Care  15ml,40000SSD,209,-209,<Each>,DUBAI
+126NLP,Nature's Life Pharmacy,DC96028,02/08/2015,NS,0,,Discount,40000SSD,0,154.25,,DUBAI
+126NLP,Nature's Life Pharmacy,DC96029,02/08/2015,NS,1,D110910,Breakout Clearing Foaming Wash 6.0 oz (177ml),40000SSDCS,80,-80,177 ML,DUBAI
+126NLP,Nature's Life Pharmacy,DC96029,02/08/2015,NS,0,,Discount,40000SSDCS,0,20,,DUBAI
+01DSC,"Dermalogica Skin Center, Dubai Mall",DC96030,02/08/2015,GM001,1,DV5273273,DEHC OI/All in one Milk135ml,40000SHDV,0,0,135ml,Dubai
+01DSC,"Dermalogica Skin Center, Dubai Mall",DC96030,02/08/2015,GM001,1,DV5273277,OI/SERUM leave on,40000SHDV,0,0,12*13ml,Dubai
+01DSC,"Dermalogica Skin Center, Dubai Mall",DC96030,02/08/2015,GM001,1,D110905,Protection50Sport 5.3 INT,40000SSD,0,0,<Each>,Dubai
+01DSC,"Dermalogica Skin Center, Dubai Mall",DC96030,02/08/2015,GM001,0,,Staff Allowance,89000,0,0,,Dubai

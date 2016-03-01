@@ -1,0 +1,642 @@
+Customer ID,Customer Name,Invoice/CM #,Date,Sales Representative ID,Quantity,Item ID,Description,G/L Account,Unit Price,Amount,U/M ID,Ship to City
+QTech,Q Tech for General Trading LLC,DC96025,02/08/2015,,1,LK0141151,K.Blonde Toner Pearl 60ml,40000SHLK,5.16,-5.16,60ml,DUBAI
+QTech,Q Tech for General Trading LLC,DC96025,02/08/2015,,5,LK2244671,Water pomade 100 ml.,40000SHLK,29.02,-145.1,100ml,DUBAI
+QTech,Q Tech for General Trading LLC,DC96026,02/08/2015,,2,LK0141151,K.Blonde Toner Pearl 60ml,40000SHLK,5.16,-10.32,60ml,DUBAI
+QTech,Q Tech for General Trading LLC,DC96026,02/08/2015,,1,LK0020021,Collage mix tones  0/02   60 ml.,40000SHLK,17.41,-17.41,60ml,DUBAI
+QTech,Q Tech for General Trading LLC,DC96026,02/08/2015,,1,LK0028171,Collage   8/17   60 ml.,40000SHLK,17.41,-17.41,60ml,DUBAI
+QTech,Q Tech for General Trading LLC,DC96027,02/08/2015,,1,LK0141151,K.Blonde Toner Pearl 60ml,40000SHLK,5.16,-5.16,60ml,DUBAI
+QTech,Q Tech for General Trading LLC,DC96027,02/08/2015,,1,LK0029982,Collage clair  12/10    60 ml,40000SHLK,17.41,-17.41,60ml,DUBAI
+126NLP,Nature's Life Pharmacy,DC96028,02/08/2015,NS,1,D102021,Antioxidant HydraMist (5.1 oz),40000SSD,189,-189,<Each>,DUBAI
+126NLP,Nature's Life Pharmacy,DC96028,02/08/2015,NS,1,D110641,AGE smart® skinperfect primer spf30  0.75 oz. (22 mL),40000SSD,219,-219,<Each>,DUBAI
+126NLP,Nature's Life Pharmacy,DC96028,02/08/2015,NS,1,D110662,Total Eye Care  15ml,40000SSD,209,-209,<Each>,DUBAI
+126NLP,Nature's Life Pharmacy,DC96028,02/08/2015,NS,0,,Discount,40000SSD,0,154.25,,DUBAI
+126NLP,Nature's Life Pharmacy,DC96029,02/08/2015,NS,1,D110910,Breakout Clearing Foaming Wash 6.0 oz (177ml),40000SSDCS,80,-80,177 ML,DUBAI
+126NLP,Nature's Life Pharmacy,DC96029,02/08/2015,NS,0,,Discount,40000SSDCS,0,20,,DUBAI
+01DSC,"Dermalogica Skin Center, Dubai Mall",DC96030,02/08/2015,GM001,1,DV5273273,DEHC OI/All in one Milk135ml,40000SHDV,0,0,135ml,Dubai
+01DSC,"Dermalogica Skin Center, Dubai Mall",DC96030,02/08/2015,GM001,1,DV5273277,OI/SERUM leave on,40000SHDV,0,0,12*13ml,Dubai
+01DSC,"Dermalogica Skin Center, Dubai Mall",DC96030,02/08/2015,GM001,1,D110905,Protection50Sport 5.3 INT,40000SSD,0,0,<Each>,Dubai
+01DSC,"Dermalogica Skin Center, Dubai Mall",DC96030,02/08/2015,GM001,0,,Staff Allowance,89000,0,0,,Dubai
+01ZSAMP,SAMPLES ISSUED,DC96031,02/08/2015,,1,CZ1410459,EYE SUPREME LUXURIUS MASCARA (13 pieces),40000SSCZ,0,0,13*11 ml,
+01ZSAMP- PR Derm,Samples Dermalogica PR,DC96032,02/08/2015,,3,D300521,"Meet Derm Kit 2013 INT - Kit consists of 1 Sp cleansing Gel 50ml,  1 Daily Microfoliant 13g, 1 Skin Smoothing Cream 22ml, 1 M/V Power firm 5ml",40000SSD,0,0,EACH,
+01ZSAMP -  Dav SMW,Davines Social Media and Web,DC96033,02/08/2015,,1,DV3873260,"LOVE/ Shampoo, lovely smoothing shampoo  75ml",40000SHDV,0,0,75ml,
+01ZSAMP -  Dav SMW,Davines Social Media and Web,DC96033,02/08/2015,,1,DV3873063,"LOVE/ conditioner, lovely smoothing conditioner  75ml",40000SHDV,0,0,75ml,
+01ZSAMP -  Dav SMW,Davines Social Media and Web,DC96033,02/08/2015,,1,DV3773248,"LOVE/ Shampoo, lovely curl enhancing shampoo  75ml",40000SHDV,0,0,75ml,
+01ZSAMP -  Dav SMW,Davines Social Media and Web,DC96033,02/08/2015,,1,DV3773061,"LOVE/ conditioner, lovely curl enhancing conditioner  75ml",40000SHDV,0,0,75ml,
+01TRL,The Red Lounge House of Beauty,DC96034,02/08/2015,JMD,1,D110625,Intensive Moisture Bal 100ml,40000SSD,255,-255,<Each>,Dubai
+01TRL,The Red Lounge House of Beauty,DC96034,02/08/2015,JMD,2,D111066,Intensive Moisture Bal 50ml,40000SSD,179,-358,<Each>,Dubai
+01TRL,The Red Lounge House of Beauty,DC96034,02/08/2015,JMD,0,,Discount,40000SSD,0,214.55,,Dubai
+01ZSAMP,SAMPLES ISSUED,CN06368,02/08/2015,,-2,DV5273302,DEHC OI/Oil 135ml,40000SHDV,0,0,135ml,
+01ZSAMP,SAMPLES ISSUED,CN06368,02/08/2015,,-2,DV5273273,DEHC OI/All in one Milk135ml,40000SHDV,0,0,135ml,
+01ZSAMP,SAMPLES ISSUED,CN06368,02/08/2015,,-2,DV5787005,Shimmering Mist 200ml,40000SHDV,0,0,200 ml,
+01ZSAMP,SAMPLES ISSUED,CN06368,02/08/2015,,-2,DV5787001,Medium Hold Hair Spray 400ml,40000SHDV,0,0,400 ml,
+01ZSAMP,SAMPLES ISSUED,CN06368,02/08/2015,,-50,DV99A2912,Davines Guide 2014 ENG,40000SHDV,0,0,<Each>,
+01ZSAMP,SAMPLES ISSUED,CN06368,02/08/2015,,-5,DV2671145,Energizing shampoo travel size 100ml,40000SHDV,0,0,100ml,
+01ZSAMP,SAMPLES ISSUED,CN06368,02/08/2015,,-5,DV2771151,Nourishing Shampoo travel size 100ml,40000SHDV,0,0,100ml,
+01ZSAMP,SAMPLES ISSUED,CN06368,02/08/2015,,-7,DV2771156,Nourishing Vegetarian Miracle Condtioner travel size 60ml,40000SHDV,0,0,60ml,
+01ZSAMP,SAMPLES ISSUED,CN06368,02/08/2015,,-5,DV2871160,Purifying Shampoo travel size 100ml,40000SHDV,0,0,100 ml,
+01ZSAMP,SAMPLES ISSUED,CN06368,02/08/2015,,-8,DV2771209,Nourishing Hair Building pak travel size 60ml,40000SHDV,0,0,60ml,
+01ZSAMP,SAMPLES ISSUED,CN06368,02/08/2015,,0,,DC95627,40000SHDV,0,0,,
+01REVS,Revival Salon,DC96035,02/08/2015,QY,2,D110607,Power Rich RetaiL Pack 50ml,40000SSD,945,-1890,<Each>,Dubai
+01REVS,Revival Salon,DC96035,02/08/2015,QY,0,,Discount,40000SSD,0,661.5,,Dubai
+01REVS,Revival Salon,DC96036,02/08/2015,QY,1,D213321,M/V Power Exfoliant 30amp,40000SSD,277,-277,<Each>,Dubai
+01REVS,Revival Salon,DC96036,02/08/2015,QY,1,D210995,Massage Cream  170gm,40000SSD,110,-110,<Each>,Dubai
+01REVS,Revival Salon,DC96036,02/08/2015,QY,4,D601702,Clearing Skin Wash-Sample,40000SSD,0,0,EACH,Dubai
+01REVS,Revival Salon,DC96036,02/08/2015,QY,4,D603020,Oil Control Lotion - Sample,40000SSD,0,0,EACH,Dubai
+01REVS,Revival Salon,DC96036,02/08/2015,QY,4,D604503,Sebum Clearing Masque,40000SSD,0,0,EACH,Dubai
+01REVS,Revival Salon,DC96036,02/08/2015,QY,4,D601511,Skin Resurfacing Cleanser,40000SSD,0,0,EACH,Dubai
+01REVS,Revival Salon,DC96036,02/08/2015,QY,4,D611005,Dynamic Skin Recovery 50 Sample,40000SSD,0,0,EACH,Dubai
+01REVS,Revival Salon,DC96036,02/08/2015,QY,4,D610716,Power Recovery Masque - Sample,40000SSD,0,0,<Each>,Dubai
+01REVS,Revival Salon,DC96036,02/08/2015,QY,4,D606053,M/V Power Firm-Sample,40000SSD,0,0,EACH,Dubai
+01REVS,Revival Salon,DC96036,02/08/2015,QY,4,D605411,MAP-15 Regenerator,40000SSD,0,0,EACH,Dubai
+01REVS,Revival Salon,DC96036,02/08/2015,QY,4,D613511,Renewal Lip Complex,40000SSD,0,0,EACH,Dubai
+01REVS,Revival Salon,DC96036,02/08/2015,QY,4,D610107,Overnight Repair Serum Sample,40000SSD,0,0,EACH,Dubai
+01REVS,Revival Salon,DC96036,02/08/2015,QY,4,D610613,MV Power Serum Foil Sample,40000SSD,0,0,<Each>,Dubai
+01REVS,Revival Salon,DC96036,02/08/2015,QY,4,D610640,skinperfect primer spf30 foil samples,40000SSD,0,0,EACH,Dubai
+AHIKP-1,AL Saha & Al Jamal Pharmacy LLC,DC96037,02/08/2015,MSAM,12,VNF00012,Vigormax 60's Lot#1408003 Exp10/16,40000VO,194.25,-2331,60's,Sharjah
+AHIKP-1,AL Saha & Al Jamal Pharmacy LLC,DC96037,02/08/2015,MSAM,3,VNF00012,Vigormax 60's Lot#1408003 Exp10/16,40000VO,0,0,60's,Sharjah
+ASUNP,Al Sundos Pharmacy,DC96038,02/08/2015,MSAM,6,VNF00012,Vigormax 60's Lot#1408003 Exp10/16,40000VO,194.25,-1165.5,60's,Sharjah
+ASUNP,Al Sundos Pharmacy,DC96038,02/08/2015,MSAM,1,VNF00012,Vigormax 60's Lot#1408003 Exp10/16,40000VO,0,0,60's,Sharjah
+ASUNP,Al Sundos Pharmacy,DC96038,02/08/2015,MSAM,2,VNF00013,Libizire 60's Lot#1311001 Exp12/15,40000VO,160.38,-320.76,60's,Sharjah
+ASUNP,Al Sundos Pharmacy,DC96039,02/08/2015,MSAM,6,VTNF00312,Vital Energy caps-30's Lot#1407004 Exp09/16,40000VO,39,-234,30's,Sharjah
+ASUNP,Al Sundos Pharmacy,DC96039,02/08/2015,MSAM,1,VTNF00312,Vital Energy caps-30's Lot#1407004 Exp09/16,40000VO,0,0,30's,Sharjah
+ASUNP,Al Sundos Pharmacy,DC96039,02/08/2015,MSAM,0,,Discount,40000VO,0,58.5,,Sharjah
+ASUNP,Al Sundos Pharmacy,DC96040,02/08/2015,MSAM,2,VNF00041,Orthostrong Tab 60's Lot# 1406018 Exp 08/16,40000VO,50,-100,60's,Sharjah
+ASUNP,Al Sundos Pharmacy,DC96040,02/08/2015,MSAM,6,VNF00040,Haemogain 30's Lot#1408004 Exp10/2016,40000VO,25,-150,60's,Sharjah
+ASUNP,Al Sundos Pharmacy,DC96040,02/08/2015,MSAM,1,VNF00040,Haemogain 30's Lot#1408004 Exp10/2016,40000VO,0,0,60's,Sharjah
+ASUNP,Al Sundos Pharmacy,DC96040,02/08/2015,MSAM,0,,Discount,40000VO,0,75,,Sharjah
+01DSC,"Dermalogica Skin Center, Dubai Mall",DC96041,02/08/2015,GM001,4,D210908,BA Peel Prep Solution 6.0,40000SSD,198,-792,<Each>,Dubai
+01DSC,"Dermalogica Skin Center, Dubai Mall",DC96041,02/08/2015,GM001,8,D210909,BA Peel Acid Actv 8.0,40000SSD,395,-3160,<Each>,Dubai
+01DSC,"Dermalogica Skin Center, Dubai Mall",DC96041,02/08/2015,GM001,4,D210911,BA Peel Enzyme Active 4.0,40000SSD,275,-1100,<Each>,Dubai
+01DSC,"Dermalogica Skin Center, Dubai Mall",DC96041,02/08/2015,GM001,4,D210912,BA Peel Decelerator 6.0,40000SSD,198,-792,<Each>,Dubai
+01DSC,"Dermalogica Skin Center, Dubai Mall",DC96041,02/08/2015,GM001,4,D4835,BA Peel Fan,40000SSD,0,0,EACH,Dubai
+01DSC,"Dermalogica Skin Center, Dubai Mall",DC96041,02/08/2015,GM001,12,D3824C,Fan Brush,40000SSD,0,0,EACH,Dubai
+01DSC,"Dermalogica Skin Center, Dubai Mall",DC96041,02/08/2015,GM001,144,D2024A,Plastic Mixing cup single,40000SSD,0,0,EACH,Dubai
+01DSC,"Dermalogica Skin Center, Dubai Mall",DC96041,02/08/2015,GM001,4,D4751,BA Peel Timing Manual,40000SSD,0,0,EACH,Dubai
+01DSC,"Dermalogica Skin Center, Dubai Mall",DC96041,02/08/2015,GM001,4,D4818INT,BS Peel merch Caddy,40000SSD,0,0,EACH,Dubai
+01DSC,"Dermalogica Skin Center, Dubai Mall",DC96041,02/08/2015,GM001,0,,Launch Deal,89000,0,0,,Dubai
+01DSC,"Dermalogica Skin Center, Dubai Mall",DC96041,02/08/2015,GM001,0,,,40000SSD,0,5844,,Dubai
+01DSC,"Dermalogica Skin Center, Dubai Mall",DC96041,02/08/2015,GM001,0,,,40000SSDO,0,-5844,,Dubai
+01ZSAMP - Derm SMW,Dermalogica Social Media and Web,DC96042,02/08/2015,,1,D300549,"I Love Dermalogica GWP (1 Daily microfoliant, 1 skin perfect primer, 1 intensive eye repair)",40000SSD,0,0,EACH,
+01ZSAMP -  JI SMW,Jane Iredale Social Media and Web,DC96043,02/08/2015,,1,J30017086,23146 PureMoist Lipstick Margi,40000JI,0,0,0,
+01ZSAMP -  JI SMW,Jane Iredale Social Media and Web,DC96043,02/08/2015,,1,J35017807,51076 Lip Fixation Passion,40000JI,0,0,0,
+01REVS,Revival Salon,DC96044,02/08/2015,QY,2,D103605,Super Rich 1.7oz (R),40000SSD,390,-780,75ml,Dubai
+01REVS,Revival Salon,DC96044,02/08/2015,QY,0,,Discount,40000SSD,0,273,,Dubai
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-1,DV99A2165,Flamboyage short meche  - kit 48 pcs- 10 X 25 cmts,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-1,DV99A2166,Flamboyage long meche - kit 48 pcs- 10 X 45 cmts,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-1,DV99A2066,Davines Veil Kit 50pcs,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV2671146,Energizing shampoo 250ml,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV2671182,Energizing Superactive 100ml,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV2771152,Nourishing Shampoo 250ml,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV2871212,Purifying Shampoo 250ml,40000SHDV,0,0,250ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV2871164,Rebalancing Shampoo 250ml,40000SHDV,0,0,250 ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV2971168,Detoxifying Scrub Shampoo250ml,40000SHDV,0,0,250 ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV3071170,Well Being Shampoo 250ml,40000SHDV,0,0,250 ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV3171177,Calming Shampoo 250 ml,40000SHDV,0,0,250 ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV5971218,NT Replumping Shampoo 250ML,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV3071176,Well Being Massage Oil 100ml,40000SHDV,0,0,100 ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV3171225,Calming Superactive 100 ml,40000SHDV,0,0,100 ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV3273227,NOUNOU shampoo = Nourishing Illuminating Shampoo  1000ml,40000SHDV,0,0,1000ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV3273299,NOUNOU conditioner = Nourishing Illuminating Cream 1000ml,40000SHDV,0,0,1000ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV3375012,MOMO shampoo = Moisturizing Shampoo  1000ml,40000SHDV,0,0,1000ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV3373238,MOMO conditioner = Moisturizing Revitalizing Crème 1000ml,40000SHDV,0,0,1000ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV3875039,"LOVE/ Shampoo, lovely smoothing shampoo Ecomille 1000ml",40000SHDV,0,0,1000ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV3875042,"LOVE/ conditioner, lovely smoothing conditioner  1000ml",40000SHDV,0,0,1000ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV5173263,MELU/Shampoo mellow anti-breakage l 1000ml,40000SHDV,0,0,250ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV5173165,MELU/Conditioner mellow anti-breakage l 1000ml,40000SHDV,0,0,250ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV5373205,DEHC Volu Shampoo 1Ltr,40000SHDV,0,0,1000ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV5373208,DEHC Volu Conditioner 1Ltr,40000SHDV,0,0,1000ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV5787000,Strong Hold Hair Spray 400ml,40000SHDV,0,0,400 ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV5787001,Medium Hold Hair Spray 400ml,40000SHDV,0,0,400 ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV5787002,Invisible No Gas Spray250ml,40000SHDV,0,0,250 ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV5787003,Volume Boosting Mousse 250ml,40000SHDV,0,0,250 ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV5787004,Curl Mosturizing Mousse 250ml,40000SHDV,0,0,250 ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV5787005,Shimmering Mist 200ml,40000SHDV,0,0,200 ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV5787006,Invisible Serum (slept-In) 50ml,40000SHDV,0,0,50 ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV5787007,Medium Hold Pliable Paste 125ml,40000SHDV,0,0,125 ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV5787016,Sea Salt Spray 250ml,40000SHDV,0,0,250 ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV5787009,Strong Dry Wax,40000SHDV,0,0,100 gr,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV5787008,Medium Hold Finishing Gum 100ml,40000SHDV,0,0,100 ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV5787013,Strong Hold Cream Gel 125ml,40000SHDV,0,0,125 ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV5787012,Medium Hold Modelling Gel 250ml,40000SHDV,0,0,250 ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV5787011,Oil non Oil 250ml,40000SHDV,0,0,250 ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,2,DV5787014,Curl Building Serum 250ml,40000SHDV,0,0,250 ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,2,DV5787015,Relaxing Mosturizing Fluid 125ml,40000SHDV,0,0,125 ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV5787010,Strong Moulding Clay 100ml,40000SHDV,0,0,100 ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-1,DV2671145,Energizing shampoo travel size 100ml,40000SHDV,0,0,100ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV2771151,Nourishing Shampoo travel size 100ml,40000SHDV,0,0,100ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV2871160,Purifying Shampoo travel size 100ml,40000SHDV,0,0,100 ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV2871165,Rebalancing Shampoo travel size 100ml,40000SHDV,0,0,100ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV3071171,Well Being Shampoo travel size 100ml,40000SHDV,0,0,100ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV3171178,Calming Shampoo travel size100ml,40000SHDV,0,0,100ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV2971207,Detoxifying Scrub Shampoo t/size 100ml,40000SHDV,0,0,100ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV3071208,Well Being Conditioner travel size 60ml,40000SHDV,0,0,60ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV2771209,Nourishing Hair Building pak travel size 60ml,40000SHDV,0,0,60ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV2771156,Nourishing Vegetarian Miracle Condtioner travel size 60ml,40000SHDV,0,0,60ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-4,DV3273221,NOUNOU shampoo = Nourishing Illuminating Shampoo  75ml,40000SHDV,0,0,75ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV3273222,NOUNOU conditioner  = Nourishing Illuminating Cream 75ml,40000SHDV,0,0,75ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV3273223,NOUNOU pak =  Nourishing Repairing Mask 75ml,40000SHDV,0,0,75ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-4,DV3373232,MOMO shampoo = Moisturizing Shampoo  75ml,40000SHDV,0,0,75ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-4,DV3373233,MOMO conditioner = Moisturizing Revitalizing Crème 75ml,40000SHDV,0,0,75ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-4,DV3673244,DEDE shampoo =Delicate Ritual Shampoo  75ml,40000SHDV,0,0,75ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-4,DV3773248,"LOVE/ Shampoo, lovely curl enhancing shampoo  75ml",40000SHDV,0,0,75ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-4,DV3873260,"LOVE/ Shampoo, lovely smoothing shampoo  75ml",40000SHDV,0,0,75ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-4,DV3873063,"LOVE/ conditioner, lovely smoothing conditioner  75ml",40000SHDV,0,0,75ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-4,DV5173267,MELU/Shampoo mellow anti-breakage l 75ml,40000SHDV,0,0,75 ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-4,DV5173191,MELU/Conditioner mellow anti-breakage l 75ml,40000SHDV,0,0,75 ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-4,DV5373204,"VOLU/ Shampoo, volume enhancing softening shampoo 75ml",40000SHDV,0,0,75 ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-4,DV5373207,"VOLU/ Conditioner, volume enhancing softening conditioner 75ml",40000SHDV,0,0,75 ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-1,DV2671184,Energizing Shampoo Sample Sachet,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-1,DV2771186,Nourishing Shampoo sample sachet,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV2771187,Nourishing VM Conditioner sample sachet,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-1,DV2771188,Nourishing Hair Building Pak sample sachet,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-1,DV2871189,Purifying Shampoo sample sachet,40000SHDV,0,0,12*12ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-1,DV3071194,Well Being Conditioner sample sachet,40000SHDV,0,0,12*12ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-1,DV3171195,Calming Shampoo sample sachet,40000SHDV,0,0,12*12ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-1,DV99A1749,Davines Large & Tester Display,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV99A2330,Kit 24 Davines Shopper,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-1,DV99A2099,Davines NT Shopper Kit 24pcs,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-20,DV99A1859,Pump for 1000 ml ECOMILLE,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-25,DV99A1932,A NEW COLOUR SALES FOLDER ENG,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-3,DV99A1603,Finest Pigment Brochure & Tech dossier,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-3,DV99A2084,Naturaltech Technical dossier ENG,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-1,DV99A2129,Natural tech communication large tester display ENG,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-1,DV99A1196,counter display 33x19 cmts,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV99A2000,OI/Oil consumer brochure - kit 24pcs ENG,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-3,DV99A1991,OI/Oil salon brochure ENG,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-3,DV99A2566,More Inside Salon Brochure ENG,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-50,DV99A2061,Davines Folder,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV5271201,Natural Tech Presentoire,40000SHDV,0,0,6*12ml,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV5787025,More Inside Presentoire,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-1,DV99A2912,Davines Guide 2014 ENG,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-2,DV99A1893,A NEW COLOUR COMPACT COLOUR CHART,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-10,DV99A2474A,Davines Guide Arabic,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-10,DV99A2912,Davines Guide 2014 ENG,40000SHDV,0,0,<Each>,
+01ZSAMP - Davines,Davines - Samples and Testers,CN06369,02/08/2015,,-1,DV99A2481,A New Color Compact Pure COL,40000SHDV,0,0,<Each>,
+01DSC,"Dermalogica Skin Center, Dubai Mall",DC96045,02/09/2015,GM001,40,D210918,BAP After Care kit,40000SSD,0,0,<Each>,Dubai
+EXCJLT,Excellture,DC96046,02/09/2015,,1,DV5273271,DEHC OI/Shampoo 280ml,40000SHDV,52.25,-52.25,280ml,DUBAI
+EXCJLT,Excellture,DC96046,02/09/2015,,0,,,40000SHDV,0,52.25,,DUBAI
+EXCJLT,Excellture,DC96046,02/09/2015,,0,,,40000SHDVW,0,-52.25,,DUBAI
+01RADBC,Radiance Beauty Center,DC96047,02/09/2015,TATG,3,DV2871212,Purifying Shampoo 250ml,40000SHDV,57,-171,250ml,Al Ain
+01RADBC,Radiance Beauty Center,DC96047,02/09/2015,TATG,5,DV2671146,Energizing shampoo 250ml,40000SHDV,57,-285,<Each>,Al Ain
+01RADBC,Radiance Beauty Center,DC96047,02/09/2015,TATG,5,DV2671150,Energizing Gel 150ml,40000SHDV,54,-270,<Each>,Al Ain
+01RADBC,Radiance Beauty Center,DC96047,02/09/2015,TATG,4,DV2871164,Rebalancing Shampoo 250ml,40000SHDV,54,-216,250 ml,Al Ain
+01WTC,World of Esthetics Beauty Salon,DC96048,02/09/2015,GM001,3,DV0762242,7.3 Medium Golden Blonde 100ml,40000SHDV,31,-93,100ml,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96048,02/09/2015,GM001,6,DV2671150,Energizing Gel 150ml,40000SHDV,54,-324,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96048,02/09/2015,GM001,3,DV2771152,Nourishing Shampoo 250ml,40000SHDV,57,-171,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96048,02/09/2015,GM001,12,DV5273273,DEHC OI/All in one Milk135ml,40000SHDV,64.8,-777.6,135ml,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96048,02/09/2015,GM001,6,DV2871212,Purifying Shampoo 250ml,40000SHDV,57,-342,250ml,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96048,02/09/2015,GM001,1,DV3071175,Well Being Conditioner 1000ml,40000SHDV,130,-130,1000 ml,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96048,02/09/2015,GM001,0,,,40000SHDV,0,1837.6,,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96048,02/09/2015,GM001,0,,,40000SHDVO,0,-1837.6,,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96049,02/09/2015,GM001,12,D110616,Multi-Active Toner 250mlR,40000SSD,145,-1740,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96049,02/09/2015,GM001,6,D110700,Daily Microfoliant 2.7oz,40000SSD,245,-1470,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96049,02/09/2015,GM001,5,D110644,Gentle Cream Exfoliant 75ml,40000SSD,195,-975,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96049,02/09/2015,GM001,6,D111060,Skin Smoothing Cream 100ml,40000SSD,255,-1530,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96049,02/09/2015,GM001,6,D110634,Solar Defense Booster SPF50 1.7oz,40000SSD,209,-1254,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96049,02/09/2015,GM001,12,D101104,Special Cleansing Gel 250mlR,40000SSD,149,-1788,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96049,02/09/2015,GM001,4,D110709,Intensive Eye Repair 15ml,40000SSD,209,-836,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96049,02/09/2015,GM001,6,D110662,Total Eye Care  15ml,40000SSD,209,-1254,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96049,02/09/2015,GM001,6,D111049,Dynamic Skin Recovery SPF50 1.7oz,40000SSD,319,-1914,50ml,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96049,02/09/2015,GM001,4,D111033,M/V Power Firm .5oz,40000SSD,249,-996,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96049,02/09/2015,GM001,4,D110641,AGE smart® skinperfect primer spf30  0.75 oz. (22 mL),40000SSD,219,-876,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96049,02/09/2015,GM001,6,D110524,Extreme C 0.3oz,40000SSD,385,-2310,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96049,02/09/2015,GM001,4,D110635,"Super Sensitive Shield SPF30, 1.7oz (50ml)",40000SSD,225,-900,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96049,02/09/2015,GM001,6,D106613,Clearing Mattifier 1.3oz,40000SSD,209,-1254,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96049,02/09/2015,GM001,0,,Discount,40000SSD,0,6683.95,,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96049,02/09/2015,GM001,0,,,40000SSD,0,12413.05,,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96049,02/09/2015,GM001,0,,,40000SSDOW,0,-12413.05,,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96050,02/09/2015,GM001,3,D213191,Revitalizing Additive 30ml,40000SSD,139,-417,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96050,02/09/2015,GM001,3,D213211,Soothing Additive  30ml,40000SSD,139,-417,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96050,02/09/2015,GM001,4,D213401,Skin Exfoliant System MDB,40000SSD,275,-1100,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96050,02/09/2015,GM001,0,,,40000SSD,0,1934,,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96050,02/09/2015,GM001,0,,,40000SSDOW,0,-1934,,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,2,DV2771187,Nourishing VM Conditioner sample sachet,40000SHDV,0,0,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,5,DV99A1888,Black pump for 900ml,40000SHDV,0,0,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,52,D610670,Daily Defense Block Sample,40000SSD,0,0,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,52,D610528,C-12 Concentrate Sample,40000SSD,0,0,EACH,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,52,D610551,Ultra Calming Serum Con Sample,40000SSD,0,0,EACH,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,52,D610645,Sheer Tint Light-Sample,40000SSD,0,0,EACH,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,52,D610646,Sheer Tint Medium-Sample,40000SSD,0,0,EACH,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,52,D611595,Daily Resurfacer - Deluxe Sample,40000SSD,0,0,EACH,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,52,D601709,Oil Free Matte Bloc  Sample,40000SSD,0,0,EACH,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,52,D611005,Dynamic Skin Recovery 50 Sample,40000SSD,0,0,EACH,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,52,D610610,Power Rich Deluxe Sample,40000SSD,0,0,EACH,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,52,D611596,Active Moist - Sample,40000SSD,0,0,EACH,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,52,D610711,Gentle Soothing Booster-Sampl,40000SSD,0,0,EACH,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,50,D4546,Skin Smoothing Cream 10 ml,40000SSD,0,0,10 ml,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,50,D4941,Antiox  HydrMst 10 ml,40000SSD,0,0,10 ml,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,50,D4716,MV Power Serum 0.24,40000SSD,0,0,7 ml,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,50,D4701,Skin Prfct Primer 7 ml INT,40000SSD,0,0,7 ml,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,5,D3804F,Consultation Card Face12pk,40000SSD,0,0,EACH,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,5,D3804G,Face Mapping Cheat Sheet,40000SSD,0,0,EACH,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,12,D101512,Skin Resurfacing Cleanser (1.0oz),40000SSD,0,0,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,12,D102022,Antioxidant HydraMist (1.0oz),40000SSD,0,0,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,12,D101703,Clearing Skin wash 1.7 Tst,40000SSD,0,0,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,12,D110620,Dermal Clay Cleanse 1.7,40000SSD,0,0,EACH,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,12,D101102,Special Cleansing Gel 1.7,40000SSD,0,0,EACH,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,12,D101302,Essential Cleansing Sol 1.7,40000SSD,0,0,EACH,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,12,D110615,Multi Active Toner 1.7,40000SSD,0,0,EACH,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,12,D110543,Ultra Calming Cleanser 1.7oz,40000SSD,0,0,EACH,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,12,D110546,Ultra Calming Mist 1.7oz,40000SSD,0,0,EACH,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,12,D109102,Conditioning Body Wash 2.5,40000SSD,0,0,EACH,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,12,D110617,Body Hydrating Cream 2.5,40000SSD,0,0,EACH,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,12,D110302,Shine Therapy Shampoo 2.0 oz,40000SSD,0,0,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,12,D110402,Silk Finish Conditioner 2.0oz,40000SSD,0,0,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96051,02/09/2015,GM001,12,D110118,MV Hand Nail Trtmt 0.5,40000SSD,0,0,EACH,Abu Dhabi
+HASP,Hanan Al Shifa Pharmacy,DC96052,02/09/2015,ANMT,12,VNF00006,Glow & Grow tabs - 60's Lot#1412004 Exp12/16,40000VO,130,-1560,<Each>,Dubai
+HASP,Hanan Al Shifa Pharmacy,DC96052,02/09/2015,ANMT,3,VNF00006,Glow & Grow tabs - 60's Lot#1412004 Exp12/16,40000VO,0,0,<Each>,Dubai
+HASP,Hanan Al Shifa Pharmacy,DC96052,02/09/2015,ANMT,0,,Discount,40000VO,0,468,,Dubai
+HASP,Hanan Al Shifa Pharmacy,DC96053,02/09/2015,ANMT,6,VNF00005,Ginseng Plus Caps - 60's  Lot1311030 Exp 12/15,40000VO,80,-480,60's,Dubai
+HASP,Hanan Al Shifa Pharmacy,DC96053,02/09/2015,ANMT,1,VNF00005,Ginseng Plus Caps - 60's  Lot1311030 Exp 12/15,40000VO,0,0,60's,Dubai
+HASP,Hanan Al Shifa Pharmacy,DC96053,02/09/2015,ANMT,0,,Discount,40000VO,0,144,,Dubai
+01CABC,Caramel Beauty Center,DC96054,02/09/2015,HF,1,D211058,Controur Masque 142gm,40000SSD,60,-60,<Each>,Abu Dhabi
+01CABC,Caramel Beauty Center,DC96054,02/09/2015,HF,1,D210544,Clinical Oatmeal 16oz,40000SSD,165,-165,453 g,Abu Dhabi
+01CABC,Caramel Beauty Center,DC96054,02/09/2015,HF,4,D3824B,Dermalogica Fan/Masque Brush,40000SSD,17,-68,EACH,Abu Dhabi
+01PEBS,Pebbles Beauty Salon,DC96055,02/09/2015,JMD,2,J51010606,32022 Acc Magic Mitt,40000JI,48.75,-97.5,0,Dubai
+01PEBS,Pebbles Beauty Salon,DC96056,02/09/2015,JMD,1,D110634,Solar Defense Booster SPF50 1.7oz,40000SSD,209,-209,<Each>,Dubai
+01PEBS,Pebbles Beauty Salon,DC96056,02/09/2015,JMD,1,D111066,Intensive Moisture Bal 50ml,40000SSD,179,-179,<Each>,Dubai
+01PEBS,Pebbles Beauty Salon,DC96056,02/09/2015,JMD,0,,Discount,40000SSD,0,135.8,,Dubai
+01PEBS,Pebbles Beauty Salon,DC96056,02/09/2015,JMD,1,D4715,Retail Paper Bag 6pk,40000SSD,0,0,EACH,Dubai
+01PEBS,Pebbles Beauty Salon,DC96056,02/09/2015,JMD,4,D610640,skinperfect primer spf30 foil samples,40000SSD,0,0,EACH,Dubai
+01PEBS,Pebbles Beauty Salon,DC96056,02/09/2015,JMD,4,D602321,M/Vit Thermafoliant Sample,40000SSD,0,0,EACH,Dubai
+01PEBS,Pebbles Beauty Salon,DC96056,02/09/2015,JMD,4,D610610,Power Rich Deluxe Sample,40000SSD,0,0,EACH,Dubai
+01PEBS,Pebbles Beauty Salon,DC96056,02/09/2015,JMD,4,D611005,Dynamic Skin Recovery 50 Sample,40000SSD,0,0,EACH,Dubai
+01PEBS,Pebbles Beauty Salon,DC96056,02/09/2015,JMD,4,D610629,Skin Smoothing Cream - Sample,40000SSD,0,0,EACH,Dubai
+01WTC,World of Esthetics Beauty Salon,DC96057,02/09/2015,GM001,2,D210908,BA Peel Prep Solution 6.0,40000SSD,198,-396,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96057,02/09/2015,GM001,4,D210909,BA Peel Acid Actv 8.0,40000SSD,395,-1580,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96057,02/09/2015,GM001,2,D210911,BA Peel Enzyme Active 4.0,40000SSD,275,-550,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96057,02/09/2015,GM001,2,D210912,BA Peel Decelerator 6.0,40000SSD,198,-396,<Each>,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96057,02/09/2015,GM001,2,D4835,BA Peel Fan,40000SSD,0,0,EACH,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96057,02/09/2015,GM001,6,D3824C,Fan Brush,40000SSD,0,0,EACH,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96057,02/09/2015,GM001,72,D2024A,Plastic Mixing cup single,40000SSD,0,0,EACH,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96057,02/09/2015,GM001,2,D4751,BA Peel Timing Manual,40000SSD,0,0,EACH,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96057,02/09/2015,GM001,2,D4818INT,BS Peel merch Caddy,40000SSD,0,0,EACH,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96057,02/09/2015,GM001,0,,Launch Deal,89000,0,0,,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96057,02/09/2015,GM001,0,,,40000SSD,0,2922,,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96057,02/09/2015,GM001,0,,,40000SSDOW,0,-2922,,Abu Dhabi
+01WTC,World of Esthetics Beauty Salon,DC96058,02/09/2015,GM001,10,D210918,BAP After Care kit,89000,0,0,<Each>,Abu Dhabi
+01YAS,World of Esthetics Beauty Salon Yas Mal,DC96059,02/09/2015,GM001,1,D210908,BA Peel Prep Solution 6.0,40000SSD,198,-198,<Each>,Abu Dhabi
+01YAS,World of Esthetics Beauty Salon Yas Mal,DC96059,02/09/2015,GM001,2,D210909,BA Peel Acid Actv 8.0,40000SSD,395,-790,<Each>,Abu Dhabi
+01YAS,World of Esthetics Beauty Salon Yas Mal,DC96059,02/09/2015,GM001,1,D210911,BA Peel Enzyme Active 4.0,40000SSD,275,-275,<Each>,Abu Dhabi
+01YAS,World of Esthetics Beauty Salon Yas Mal,DC96059,02/09/2015,GM001,1,D210912,BA Peel Decelerator 6.0,40000SSD,198,-198,<Each>,Abu Dhabi
+01YAS,World of Esthetics Beauty Salon Yas Mal,DC96059,02/09/2015,GM001,1,D4835,BA Peel Fan,40000SSD,0,0,EACH,Abu Dhabi
+01YAS,World of Esthetics Beauty Salon Yas Mal,DC96059,02/09/2015,GM001,3,D3824C,Fan Brush,40000SSD,0,0,EACH,Abu Dhabi
+01YAS,World of Esthetics Beauty Salon Yas Mal,DC96059,02/09/2015,GM001,36,D2024A,Plastic Mixing cup single,40000SSD,0,0,EACH,Abu Dhabi
+01YAS,World of Esthetics Beauty Salon Yas Mal,DC96059,02/09/2015,GM001,1,D4751,BA Peel Timing Manual,40000SSD,0,0,EACH,Abu Dhabi
+01YAS,World of Esthetics Beauty Salon Yas Mal,DC96059,02/09/2015,GM001,1,D4818INT,BS Peel merch Caddy,40000SSD,0,0,EACH,Abu Dhabi
+01YAS,World of Esthetics Beauty Salon Yas Mal,DC96059,02/09/2015,GM001,0,,Launch Deal,89000,0,0,,Abu Dhabi
+01YAS,World of Esthetics Beauty Salon Yas Mal,DC96059,02/09/2015,GM001,0,,,40000SSD,0,1461,,Abu Dhabi
+01YAS,World of Esthetics Beauty Salon Yas Mal,DC96059,02/09/2015,GM001,0,,,40000SSDYM,0,-1461,,Abu Dhabi
+01YAS,World of Esthetics Beauty Salon Yas Mal,DC96060,02/09/2015,GM001,10,D210918,BAP After Care kit,89000,0,0,<Each>,Abu Dhabi
+01ASPS,Al Shunnar Plastic Surgery,DC96061,02/09/2015,TATG,6,DV3873259,"LOVE/ Shampoo, lovely smoothing shampoo  250ml",40000SHDV,45,-270,250ml,Dubai
+01ASPS,Al Shunnar Plastic Surgery,DC96061,02/09/2015,TATG,3,DV3873056,"LOVE/ conditioner, lovely smoothing conditioner  250ml",40000SHDV,48,-144,250ml,Dubai
+01ASPS,Al Shunnar Plastic Surgery,DC96061,02/09/2015,TATG,3,DV5273271,DEHC OI/Shampoo 280ml,40000SHDV,57,-171,280ml,Dubai
+01ASPS,Al Shunnar Plastic Surgery,DC96061,02/09/2015,TATG,1,DV5273272,DEHC OI/Conditioner 250ml,40000SHDV,60,-60,250 ml,Dubai
+01SHBL,Sheba Beauty Lounge FZE,DC96062,02/09/2015,NS,3,CZ4220301,HYDRAMEMORY CREAM GEL,40000SSCZ,277.2,-831.6,<Each>,Dubai
+01SHBL,Sheba Beauty Lounge FZE,DC96062,02/09/2015,NS,1,CZ4920192,RECOVER TOUCH VITAMIN INTEGRATOR 250ML,40000SSCZ,300,-300,250 ml,Dubai
+01SHBL,Sheba Beauty Lounge FZE,DC96062,02/09/2015,NS,1,CZ4020422,EVERYDAY TONIC,40000SSCZ,112.2,-112.2,500 ml,Dubai
+01SHBL,Sheba Beauty Lounge FZE,DC96062,02/09/2015,NS,1,CZ52290,PURE COLLAGEN MASK,40000SSCZ,502.8,-502.8,6 pcs.,Dubai
+01SHBL,Sheba Beauty Lounge FZE,DC96062,02/09/2015,NS,2,CZ0410406,SKIN RESONANCE CREAM OIL CLEANSER 150ml,40000SSCZ,101.4,-202.8,150 ml,Dubai
+01SHBL,Sheba Beauty Lounge FZE,DC96062,02/09/2015,NS,2,CZ0310401,HYDRAMEMORY CREAM GEL,40000SSCZ,243.6,-487.2,<Each>,Dubai
+01SHBL,Sheba Beauty Lounge FZE,DC96062,02/09/2015,NS,2,CZ0410411,SKIN RESONANCE PEELING 50ML,40000SSCZ,126.6,-253.2,50 ml,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,4.5,D110919,PreCleanse Wipes 6pk,40000SSD,570,-2565,177 ML,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,20,D111033,M/V Power Firm .5oz,40000SSD,249,-4980,<Each>,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,16,D111060,Skin Smoothing Cream 100ml,40000SSD,255,-4080,<Each>,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,13,D110700,Daily Microfoliant 2.7oz,40000SSD,245,-3185,<Each>,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,21,D110662,Total Eye Care  15ml,40000SSD,209,-4389,<Each>,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,12,D111059,Active Moist 100ml,40000SSD,255,-3060,<Each>,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,8,D101104,Special Cleansing Gel 250mlR,40000SSD,149,-1192,<Each>,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,14,D110709,Intensive Eye Repair 15ml,40000SSD,209,-2926,<Each>,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,4,D103605,Super Rich 1.7oz (R),40000SSD,390,-1560,75ml,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,10,D111049,Dynamic Skin Recovery SPF50 1.7oz,40000SSD,319,-3190,50ml,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,5,D110625,Intensive Moisture Bal 100ml,40000SSD,255,-1275,<Each>,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,8,D110740,"Special Clearing Booster, 1.0 oz (30 ml)",40000SSD,229,-1832,EACH,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,5,D110012,Envir Control Deodorant2.25oz,40000SSD,118,-590,<Each>,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,6,D110104,Age Reversal Eye Complex (15 mL),40000SSD,309,-1854,<Each>,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,8,D110548,Barrier Repair 30ml,40000SSD,198,-1584,<Each>,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,3,D101304,Essnt'l Cleaning Sol 250ml-R,40000SSD,149,-447,<Each>,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,4,D110616,Multi-Active Toner 250mlR,40000SSD,145,-580,<Each>,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,5,D110304,Shine Therapy Shampoo 250ml,40000SSD,89,-445,<Each>,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,5,D110634,Solar Defense Booster SPF50 1.7oz,40000SSD,209,-1045,<Each>,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,4,D110900,Concealing Spot Treatment 0.33 oz,40000SSD,155,-620,<Each>,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,2,D110621,Dermal clay cleanser 250ml-R,40000SSD,149,-298,<Each>,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,4,D102021,Antioxidant HydraMist (5.1 oz),40000SSD,189,-756,<Each>,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,4,D111595,Daily Resurfacer 35pc,40000SSD,349,-1396,<Each>,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,4,D104513,Sebum Clearing Masque 2.5oz,40000SSD,195,-780,<Each>,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,2,D106122,Overnight Clearing Gel 1.7oz,40000SSD,189,-378,<Each>,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,2,D106152,Soothing Eye Make-up Remover 4.2oz,40000SSD,135,-270,<Each>,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,2,D110117,M/V Hand and Nail Treatment,40000SSD,129,-258,<Each>,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,2,D110545,Ultra Calming Mist 6.0oz,40000SSD,159,-318,EACH,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,2,D110613,MultiVitamin Power Serum 0.75oz (22ml),40000SSD,348,-696,22ml,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,2,D110633,Oil Free Matte block spf30  1.7oz,40000SSD,225,-450,<Each>,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,3,D110716,M/V Power Recovery Masq 75ml,40000SSD,225,-675,<Each>,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,2,D113511,Renewal Lip Complex (0.3 oz),40000SSD,129,-258,<Each>,Dubai
+MRSP,Marina star pharmacy LLC,DC96063,02/09/2015,MUHJ,0,,Discount,40000SSD,0,11983,,Dubai
+01ROOTS,Roots Salon,DC96064,02/09/2015,HF,1,D211121,Skin Prep Scrub - 177ml,40000SSD,115,-115,<Each>,Abu Dhabi
+01ROOTS,Roots Salon,DC96064,02/09/2015,HF,1,D213121,Calming Botanical Mixer 118ml,40000SSD,125,-125,<Each>,Abu Dhabi
+01ROOTS,Roots Salon,DC96064,02/09/2015,HF,1,D213131,Purifying Botanical Mxr 118ml,40000SSD,125,-125,<Each>,Abu Dhabi
+01ROOTS,Roots Salon,DC96064,02/09/2015,HF,1,D213141,Replenishing Botnicl Mxr 118ml,40000SSD,125,-125,<Each>,Abu Dhabi
+01ROOTS,Roots Salon,DC96064,02/09/2015,HF,1,D201511,Skin Resurfacing Cleanser 16oz,40000SSD,169,-169,<Each>,Abu Dhabi
+01ROOTS,Roots Salon,DC96064,02/09/2015,HF,1,D213321,M/V Power Exfoliant 30amp,40000SSD,277,-277,<Each>,Abu Dhabi
+01ROOTS,Roots Salon,DC96064,02/09/2015,HF,1,D211030,"MultiVitamin Thermafoliant, 6 oz (177 ml)",40000SSD,215,-215,EACH,Abu Dhabi
+01ROOTS,Roots Salon,DC96064,02/09/2015,HF,1,D210716,M/V Power Recovery Masq 177ml,40000SSD,193,-193,<Each>,Abu Dhabi
+01ROOTS,Roots Salon,DC96064,02/09/2015,HF,1,D202021,Antioxidant HydraMist 12.oz,40000SSD,139,-139,<Each>,Abu Dhabi
+01ROOTS,Roots Salon,DC96064,02/09/2015,HF,1,D210683,AGE Smart Complex (1.0oz),40000SSD,169,-169,<Each>,Abu Dhabi
+01ROOTS,Roots Salon,DC96064,02/09/2015,HF,1,D211005,Dynamic Skin Recovery SPF50 4.0 INT,40000SSD,198,-198,<Each>,Abu Dhabi
+01ROOTS,Roots Salon,DC96064,02/09/2015,HF,1,D211062,M/V Power Firm 2.5oz,40000SSD,275,-275,<Each>,Abu Dhabi
+01ROOTS,Roots Salon,DC96064,02/09/2015,HF,1,D210522,Tri-Active Cleanse 16.0,40000SSD,169,-169,<Each>,Abu Dhabi
+01ROOTS,Roots Salon,DC96064,02/09/2015,HF,1,D210521,Pure light SPF30 4oz,40000SSD,215,-215,<Each>,Abu Dhabi
+01ROOTS,Roots Salon,DC96064,02/09/2015,HF,1,D210527,ChromaWhite Complex 1 oz,40000SSD,169,-169,<Each>,Abu Dhabi
+01ROOTS,Roots Salon,DC96064,02/09/2015,HF,1,D201712,Clearing Skin Wash 32oz,40000SSD,185,-185,<Each>,Abu Dhabi
+01ROOTS,Roots Salon,DC96064,02/09/2015,HF,1,D213401,Skin Exfoliant System MDB,40000SSD,275,-275,<Each>,Abu Dhabi
+01ROOTS,Roots Salon,DC96064,02/09/2015,HF,1,D209503,Sebum Clearing Masque 6oz,40000SSD,175,-175,<Each>,Abu Dhabi
+01ROOTS,Roots Salon,DC96064,02/09/2015,HF,1,D213351,Oil Free Massage 7oz,40000SSD,132,-132,<Each>,Abu Dhabi
+01ROOTS,Roots Salon,DC96064,02/09/2015,HF,1,D213331,MediBac Clearing Complex 1.0oz,40000SSD,169,-169,<Each>,Abu Dhabi
+01ROOTS,Roots Salon,DC96064,02/09/2015,HF,1,D210544,Clinical Oatmeal 16oz,40000SSD,165,-165,453 g,Abu Dhabi
+01ROOTS,Roots Salon,DC96064,02/09/2015,HF,1,D3824B,Dermalogica Fan/Masque Brush,40000SSD,17,-17,EACH,Abu Dhabi
+01ROOTS,Roots Salon,DC96064,02/09/2015,HF,1,DR9099A,Dermalogica Towel S,40000SSD,0,0,<Each>,Abu Dhabi
+01ROOTS,Roots Salon,DC96064,02/09/2015,HF,1,DR9099B,Dermalogica Towel M,40000SSD,0,0,<Each>,Abu Dhabi
+01ROOTS,Roots Salon,DC96064,02/09/2015,HF,1,DR9099C,Dermalogica Towel L,40000SSD,0,0,<Each>,Abu Dhabi
+RIP,"Riyadh Pharmacy, Sharjah",DC96065,02/09/2015,JEAS,50,VNF00177,Natal Care 60's Lot#1405023 Exp8/16,40000VO,75,-3750,60's,Sharjah
+RIP,"Riyadh Pharmacy, Sharjah",DC96065,02/09/2015,JEAS,15,VNF00177,Natal Care 60's Lot#1405023 Exp8/16,40000VO,0,0,60's,Sharjah
+RIP,"Riyadh Pharmacy, Sharjah",DC96065,02/09/2015,JEAS,0,,Discount,40000VO,0,1125,,Sharjah
+05DP,Dermapure Sarl.,DC96066,02/09/2015,GM001,2,D201301,Essential Cleansing Sol -946ml,40000SSD,96,-192,<Each>,Beirut
+05DP,Dermapure Sarl.,DC96066,02/09/2015,GM001,4,D210629,Skin Smoothing Cream 177ml,40000SSD,92.8,-371.2,<Each>,Beirut
+05DP,Dermapure Sarl.,DC96066,02/09/2015,GM001,6,D211596,Active Moist 177ml,40000SSD,92.8,-556.8,<Each>,Beirut
+05DP,Dermapure Sarl.,DC96066,02/09/2015,GM001,6,D210726,Scaling Fluid  237ml,40000SSD,76.8,-460.8,<Each>,Beirut
+05DP,Dermapure Sarl.,DC96066,02/09/2015,GM001,6,D211121,Skin Prep Scrub - 177ml,40000SSD,60.8,-364.8,<Each>,Beirut
+05DP,Dermapure Sarl.,DC96066,02/09/2015,GM001,4,D213121,Calming Botanical Mixer 118ml,40000SSD,76.8,-307.2,<Each>,Beirut
+05DP,Dermapure Sarl.,DC96066,02/09/2015,GM001,2,D106403,Climate Control Lips 9pk,40000SSD,137.1,-274.2,<Each>,Beirut
+05DP,Dermapure Sarl.,DC96066,02/09/2015,GM001,4,D103605,Super Rich 1.7oz (R),40000SSD,156.8,-627.2,75ml,Beirut
+05DP,Dermapure Sarl.,DC96066,02/09/2015,GM001,2,D110607,Power Rich RetaiL Pack 50ml,40000SSD,367,-734,<Each>,Beirut
+05DP,Dermapure Sarl.,DC96066,02/09/2015,GM001,6,D110710,Skin Hydrating Booster 30ml,40000SSD,105.8,-634.8,<Each>,Beirut
+05DP,Dermapure Sarl.,DC96066,02/09/2015,GM001,0,,,40000SSD,0,4523,,Beirut
+05DP,Dermapure Sarl.,DC96066,02/09/2015,GM001,0,,,40000SSDL,0,-4523,,Beirut
+01AMIRS,Al Marjan Island Resort & Spa,DC96067,02/09/2015,TATG,9,DV99A1888,Black pump for 900ml,40000SHDV,0,0,<Each>,RAK
+01AMIRS,Al Marjan Island Resort & Spa,DC96067,02/09/2015,TATG,5,DV99A1859,Pump for 1000 ml ECOMILLE,40000SHDV,0,0,<Each>,RAK
+01SMC,Sawsan Medical Centre,DC96068,02/09/2015,QY,5,D210716,M/V Power Recovery Masq 177ml,40000SSD,193,-965,<Each>,Dubai
+01SMC,Sawsan Medical Centre,DC96068,02/09/2015,QY,3,D213061,Colloidal Masque Base 170gm,40000SSD,158,-474,<Each>,Dubai
+01SMC,Sawsan Medical Centre,DC96068,02/09/2015,QY,1,D211121,Skin Prep Scrub - 177ml,40000SSD,115,-115,<Each>,Dubai
+01SMC,Sawsan Medical Centre,DC96068,02/09/2015,QY,1,D210683,AGE Smart Complex (1.0oz),40000SSD,169,-169,<Each>,Dubai
+01SMC,Sawsan Medical Centre,DC96068,02/09/2015,QY,1,D210527,ChromaWhite Complex 1 oz,40000SSD,169,-169,<Each>,Dubai
+01SMC,Sawsan Medical Centre,DC96068,02/09/2015,QY,1,D213331,MediBac Clearing Complex 1.0oz,40000SSD,169,-169,<Each>,Dubai
+01SMC,Sawsan Medical Centre,DC96068,02/09/2015,QY,1,D210545,Ultra Calming Complex 1.0oz,40000SSD,169,-169,EACH,Dubai
+01SMC,Sawsan Medical Centre,DC96068,02/09/2015,QY,1,D210521,Pure light SPF30 4oz,40000SSD,215,-215,<Each>,Dubai
+01SMC,Sawsan Medical Centre,DC96068,02/09/2015,QY,1,D210108,"Sun Booster SPF-50, 4oz",40000SSD,245,-245,<Each>,Dubai
+01SMC,Sawsan Medical Centre,DC96068,02/09/2015,QY,1,D210542,Ultra Calming Mist 12.0oz,40000SSD,115,-115,EACH,Dubai
+01SMC,Sawsan Medical Centre,DC96068,02/09/2015,QY,2,D3824B,Dermalogica Fan/Masque Brush,40000SSD,17,-34,EACH,Dubai
+QTech,Q Tech for General Trading LLC,DC96069,02/09/2015,,2,LK3546561,KSTY. Fibre Paste Molding Paste 100ml,40000SHLK,44.49,-88.98,<Each>,DUBAI
+01YBS,Yas Beauty Spa,DC96070,02/09/2015,JMD,2,D110522,Tri-Active Cleanse 5.1,40000SSD,189,-378,<Each>,Dubai
+01YBS,Yas Beauty Spa,DC96070,02/09/2015,JMD,2,D110524,Extreme C 0.3oz,40000SSD,385,-770,<Each>,Dubai
+01YBS,Yas Beauty Spa,DC96070,02/09/2015,JMD,2,D110521,Pure Light SPF30 1.7oz,40000SSD,289,-578,<Each>,Dubai
+01YBS,Yas Beauty Spa,DC96070,02/09/2015,JMD,2,D111066,Intensive Moisture Bal 50ml,40000SSD,179,-358,<Each>,Dubai
+01YBS,Yas Beauty Spa,DC96070,02/09/2015,JMD,1,D110616,Multi-Active Toner 250mlR,40000SSD,145,-145,<Each>,Dubai
+01YBS,Yas Beauty Spa,DC96070,02/09/2015,JMD,0,,Discount,40000SSD,0,780.15,,Dubai
+01ARSAW,"Aroushi Beauty Salon, Al Wasl",DC96071,02/09/2015,QY,3,D210700,Daily Microfoliant 6oz,40000SSD,176,-528,<Each>,Dubai
+01ARSAW,"Aroushi Beauty Salon, Al Wasl",DC96071,02/09/2015,QY,3,D210542,Ultra Calming Mist 12.0oz,40000SSD,115,-345,EACH,Dubai
+01ARSAW,"Aroushi Beauty Salon, Al Wasl",DC96071,02/09/2015,QY,2,D213101,Post-Extraction Solution 8oz,40000SSD,99,-198,<Each>,Dubai
+01ARSAW,"Aroushi Beauty Salon, Al Wasl",DC96071,02/09/2015,QY,3,D213131,Purifying Botanical Mxr 118ml,40000SSD,125,-375,<Each>,Dubai
+01ARSAW,"Aroushi Beauty Salon, Al Wasl",DC96071,02/09/2015,QY,3,D210716,M/V Power Recovery Masq 177ml,40000SSD,193,-579,<Each>,Dubai
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,DV99A2214,Kit 12 bags for travel size,40000SHDV,0,0,<Each>,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,2,DV3273221,NOUNOU shampoo = Nourishing Illuminating Shampoo  75ml,40000SHDV,0,0,75ml,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,2,DV3273222,NOUNOU conditioner  = Nourishing Illuminating Cream 75ml,40000SHDV,0,0,75ml,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,DV55574012,DAVINES AUTHENTIC Nourishing Oil 140ml,40000SHDV,0,0,150ml,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,DV3071174,Well Being Conditioner 150ml,40000SHDV,0,0,150 ml,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,DV3071170,Well Being Shampoo 250ml,40000SHDV,0,0,250 ml,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,DV99A1589,Samll gift Box 2009,40000SHDV,0,0,<Each>,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,DV2871160,Purifying Shampoo travel size 100ml,40000SHDV,0,0,100 ml,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,DV2971207,Detoxifying Scrub Shampoo t/size 100ml,40000SHDV,0,0,100ml,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,DV2871165,Rebalancing Shampoo travel size 100ml,40000SHDV,0,0,100ml,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,DV2671145,Energizing shampoo travel size 100ml,40000SHDV,0,0,100ml,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,DV2771151,Nourishing Shampoo travel size 100ml,40000SHDV,0,0,100ml,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,DV3071171,Well Being Shampoo travel size 100ml,40000SHDV,0,0,100ml,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,DV3171178,Calming Shampoo travel size100ml,40000SHDV,0,0,100ml,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,DV3071208,Well Being Conditioner travel size 60ml,40000SHDV,0,0,60ml,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,DV2771156,Nourishing Vegetarian Miracle Condtioner travel size 60ml,40000SHDV,0,0,60ml,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,DV5273311,DEHC OI Shampoo 90 ML,40000SHDV,0,0,90ml,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,DV5273312,DEHC OI Conditioner 75 ml,40000SHDV,0,0,75 ml,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,DV5273313,DEHC OI All In One Milk 50 ml,40000SHDV,0,0,50 ml,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,DV99A0831,Black pump 250ml 1,40000SHDV,0,0,<Each>,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,CZ2910520,SACRED NATURE ORGANIC KIT new,40000SSCZ,0,0,<Each>,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,CZ2910519,TRANQUILLITY TIME KIT new,40000SSCZ,0,0,<Each>,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,CZ6320045,AROMASOUL NOURISHING MASSAGE OIL *,40000SSCZ,0,0,250 ml,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,CZ6320159,AROMASOUL ARABIAN HAMMAM BLEND,40000SSCZ,0,0,100 ml,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,CZ2310057,MONTICELLI  SPA MUD,40000SSCZ,0,0,4X100 ml,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,CZ98B0859,DO NOT DISTURB ita/ing (SET OF 10 TAGS),40000SSCZ,0,0,150 gr,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,CZ99B0644,ACT PURENESS SYSTEM SET (10 PCS) BROCHURE+SAMPLE,40000SSCZ,0,0,<Each>,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,CZ98B0849,GLORIOUS SKIN SYSTEM SET,40000SSCZ,0,0,<Each>,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,CZ99B0985,Retail Guide Line Eng,40000SSCZ,0,0,each,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,0.1,CZ99B0238,GIFT BOX - set 10 pcs *,40000SSCZ,0,0,<Each>,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,CZ2410426,TRANQUILLITY SHOWER CREAM,40000SSCZ,0,0,200 ml,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,CZ2410321,TRANQUILLITY BATH AND BODY OIL,40000SSCZ,0,0,200 ml,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,CZ98B0065,AROMASOUL  ARABIAN CANDLE,40000SSCZ,0,0,130 gr,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,CZ6320182,AROMASOUL MEDITERRANEAN BLEND,40000SSCZ,0,0,15 ml,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,CZ99B0733,SACRED NATURE FACE&BODY KIT,40000SSCZ,0,0,<Each>,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,CZ3010720,SKIN REGIMEN JUVENATE BODY SCRUB,40000SSCZ,0,0,55 ML,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,CZ3110578,Natural Remedies Arnica,40000SSCZ,0,0,55 ML,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,1,CZ99B0963,Mini Brand Profile Eng,40000SSCZ,0,0,each,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,0.1,CZ98B0649,BODY STRATEGIST+SYSTEM SET,40000SSCZ,0,0,<Each>,
+01ZSAMP- DTR,Davines Training Room - Samples,DC96072,02/09/2015,,0.1,CZ99B1019,SKIN REGIMEN HYDRA JUVEN SET 6*2ML,40000SSCZ,0,0,55 ML,
+11 OTH - DAVINES,Cash Davines International,DC96073,02/10/2015,,2,DV2161038,"6,66 Dark Blonde Intense Red Newcolour",40000SHDV,34,-68,60ml,
+11 OTH - DAVINES,Cash Davines International,DC96073,02/10/2015,,2,DV2161042,"6,4 Dark Blonde Copper 60ml",40000SHDV,34,-68,60ml,
+11 OTH - DAVINES,Cash Davines International,DC96073,02/10/2015,,2,DV2161053,"66,0 Intense Dark Blonde New colour 60ml",40000SHDV,34,-68,60ml,
+11 OTH - DAVINES,Cash Davines International,DC96073,02/10/2015,,2,DV2161021,"5,14 Light Brown Ash Copper Newcolour",40000SHDV,34,-68,60ml,
+11 OTH - DAVINES,Cash Davines International,DC96073,02/10/2015,,1,DV2161052,"55,0 Intense Light Brown New colour 60ml",40000SHDV,34,-34,60ml,
+11 OTH - DAVINES,Cash Davines International,DC96073,02/10/2015,,0,,Replacement,40000SHDV,0,0,,
+11 OTH - DAVINES,Cash Davines International,DC96073,02/10/2015,,0,,,40000SHDV,0,306,,
+11 OTH - DAVINES,Cash Davines International,DC96073,02/10/2015,,0,,,40000SHDVE,0,-306,,
+01AFRLS-Consignment,Afrodita Ladies Salon,DC96074,02/10/2015,TATG,3,DV3071170,Well Being Shampoo 250ml,40000SHDV,42,-126,250 ml,Dubai
+01AFRLS-Consignment,Afrodita Ladies Salon,DC96074,02/10/2015,TATG,3,DV3373235,MOMO shampoo =Moisturizing Shampoo  250ml,40000SHDV,45,-135,250ml,Dubai
+01AFRLS-Consignment,Afrodita Ladies Salon,DC96074,02/10/2015,TATG,3,DV3873259,"LOVE/ Shampoo, lovely smoothing shampoo  250ml",40000SHDV,45,-135,250ml,Dubai
+01AFRLS-Consignment,Afrodita Ladies Salon,DC96074,02/10/2015,TATG,3,DV3875041,"LOVE/ conditioner, lovely smoothing conditioner  250ml",40000SHDV,48,-144,250ml,Dubai
+01AFRLS-Consignment,Afrodita Ladies Salon,DC96074,02/10/2015,TATG,5,DV2771154,Nourishing Hair Building Pak 250ml,40000SHDV,78,-390,<Each>,Dubai
+01AFRLS-Consignment,Afrodita Ladies Salon,DC96074,02/10/2015,TATG,0,,,40000SHDV,0,930,,Dubai
+01AFRLS-Consignment,Afrodita Ladies Salon,DC96074,02/10/2015,TATG,0,,,1160001,0,-930,,Dubai
+EXCJLT,Excellture,DC96075,02/10/2015,,1,J44015009,Enlighten Concealer,40000JI,81.4,-81.4,0,DUBAI
+EXCJLT,Excellture,DC96075,02/10/2015,,0,,,40000JI,0,81.4,,DUBAI
+EXCJLT,Excellture,DC96075,02/10/2015,,0,,,40000JIW,0,-81.4,,DUBAI
+01RADBC,Radiance Beauty Center,DC96076,02/10/2015,HF,2,D211037,BS Peel Prep Sol 6.0,40000SSD,198,-396,<Each>,Al Ain
+01RADBC,Radiance Beauty Center,DC96076,02/10/2015,HF,2,D211038,BS Peel Enz Actv 4.0,40000SSD,275,-550,<Each>,Al Ain
+01RADBC,Radiance Beauty Center,DC96076,02/10/2015,HF,2,D211039,BS Peel Acid Actv 8.0,40000SSD,395,-790,<Each>,Al Ain
+01RADBC,Radiance Beauty Center,DC96076,02/10/2015,HF,2,D211040,BS Peel Dceleratr 6.0,40000SSD,198,-396,<Each>,Al Ain
+01RADBC,Radiance Beauty Center,DC96076,02/10/2015,HF,2,D4818INT,BS Peel merch Caddy,40000SSD,155,-310,EACH,Al Ain
+01RADBC,Radiance Beauty Center,DC96076,02/10/2015,HF,2,D4835,BA Peel Fan,40000SSD,20,-40,EACH,Al Ain
+01RADBC,Radiance Beauty Center,DC96076,02/10/2015,HF,2,D3824B,Dermalogica Fan/Masque Brush,40000SSD,17,-34,EACH,Al Ain
+01RADBC,Radiance Beauty Center,DC96076,02/10/2015,HF,2,D2024A,Plastic Mixing cup single,40000SSD,10,-20,EACH,Al Ain
+01RADBC,Radiance Beauty Center,DC96076,02/10/2015,HF,2,D4877,BA Peel Treatment Form 12pk,40000SSD,15,-30,EACH,Al Ain
+01RADBC,Radiance Beauty Center,DC96076,02/10/2015,HF,2,D4867,BA Peel Prospecting Brochure,40000SSD,25,-50,EACH,Al Ain
+01RADBC,Radiance Beauty Center,DC96076,02/10/2015,HF,2,D3804F,Consultation Card Face12pk,40000SSD,15,-30,EACH,Al Ain
+01RADBC,Radiance Beauty Center,DC96076,02/10/2015,HF,0,,Launch Deal,40000SSD,0,514,,Al Ain
+01RADBC,Radiance Beauty Center,DC96077,02/10/2015,HF,1,D213331,MediBac Clearing Complex 1.0oz,40000SSD,169,-169,<Each>,Al Ain
+01RADBC,Radiance Beauty Center,DC96077,02/10/2015,HF,1,D211051,Precleanse 16oz,40000SSD,169,-169,<Each>,Al Ain
+01RADBC,Radiance Beauty Center,DC96077,02/10/2015,HF,1,D210527,ChromaWhite Complex 1 oz,40000SSD,169,-169,<Each>,Al Ain
+01RADBC,Radiance Beauty Center,DC96077,02/10/2015,HF,1,D213131,Purifying Botanical Mxr 118ml,40000SSD,125,-125,<Each>,Al Ain
+01RADBC,Radiance Beauty Center,DC96077,02/10/2015,HF,1,D213411,"Acidic Activator, Part B 6oz",40000SSD,145,-145,<Each>,Al Ain
+01RADBC,Radiance Beauty Center,DC96077,02/10/2015,HF,1,D210995,Massage Cream  170gm,40000SSD,110,-110,<Each>,Al Ain
+01RADBC,Radiance Beauty Center,DC96077,02/10/2015,HF,1,D211030,"MultiVitamin Thermafoliant, 6 oz (177 ml)",40000SSD,215,-215,EACH,Al Ain
+01RADBC,Radiance Beauty Center,DC96077,02/10/2015,HF,1,D213101,Post-Extraction Solution 8oz,40000SSD,99,-99,<Each>,Al Ain
+01SBL,Sisters Beauty Lounge,DC96079,02/10/2015,QY,1,D110700,Daily Microfoliant 2.7oz - Lida,40000SSD,0,0,<Each>,Dubai
+01SBL,Sisters Beauty Lounge,DC96079,02/10/2015,QY,1,D110548,Barrier Repair 30ml - Cristina,40000SSD,0,0,<Each>,Dubai
+01SBL,Sisters Beauty Lounge,DC96079,02/10/2015,QY,0,,Incentive,89000,0,0,,Dubai
+MISC,Cash Customers,DC96080,02/10/2015,GM001,2,N0071,F.A.S.T. Shampoo,40000SHN,79,-158,each,Ras Al Kaihmah
+MISC,Cash Customers,DC96080,02/10/2015,GM001,1,N0075,F.A.S.T. Conditioner,40000SHN,79,-79,each,Ras Al Kaihmah
+01ZSAMP,SAMPLES ISSUED,DC96081,02/10/2015,,2,CZ1410459,EYE SUPREME LUXURIUS MASCARA (13 pieces),40000SSCZ,0,0,13*11 ml,
+100MT,"Mutawa Trading, Shj",DC96082,02/10/2015,MSAM,2,VNF00012,Vigormax 60's Lot#1408003 Exp10/16,40000VO,194.25,-388.5,60's,Sharjah
+100MT,"Mutawa Trading, Shj",DC96083,02/10/2015,MSAM,3,VNF00005,Ginseng Plus Caps - 60's  Lot1311030 Exp 12/15,40000VO,80,-240,60's,Sharjah
+100MT,"Mutawa Trading, Shj",DC96083,02/10/2015,MSAM,2,VNF00008,Megaton tabs - 100's  Lot#1311015 Exp12/15,40000VO,135,-270,<Each>,Sharjah
+100MT,"Mutawa Trading, Shj",DC96083,02/10/2015,MSAM,0,,Discount,40000VO,0,153,,Sharjah
+100MT,"Mutawa Trading, Shj",DC96084,02/10/2015,MSAM,3,VTNF00275,Megaton tabs - 30's Lot#1404022 Exp06/16,40000VO,55,-165,30's,Sharjah
+100MT,"Mutawa Trading, Shj",DC96084,02/10/2015,MSAM,0,,Discount,40000VO,0,41.25,,Sharjah
+103AKP,Supercare Jumairah Phy,DC96085,02/10/2015,MUHJ,50,VNF00012,Vigormax 60's Lot#1408003 Exp10/16,40000VO,194.25,-9712.5,60's,Dubai
+103AKP,Supercare Jumairah Phy,DC96085,02/10/2015,MUHJ,35,VNF00012,Vigormax 60's Lot#1408003 Exp10/16,40000VO,0,0,60's,Dubai
+103AKP,Supercare Jumairah Phy,DC96086,02/10/2015,MUHJ,25,VNF00233,Lypotrim 90's Lot#1411026 Exp11/2016,40000VO,235,-5875,90's,Dubai
+103AKP,Supercare Jumairah Phy,DC96086,02/10/2015,MUHJ,0,,Discount,40000VO,0,3231.25,,Dubai
+ARP,Al Rais Pharmacy,DC96087,02/10/2015,AHKSNP,12,VNF00012,Vigormax 60's Lot#1408003 Exp10/16,40000VO,194.25,-2331,60's,Dubai
+ARP,Al Rais Pharmacy,DC96087,02/10/2015,AHKSNP,3,VNF00012,Vigormax 60's Lot#1408003 Exp10/16,40000VO,0,0,60's,Dubai
+01CARLS,Carmella Ladies Salon,DC96088,02/10/2015,HF,1,D211058,Controur Masque 142gm,40000SSD,60,-60,<Each>,Al Ain
+01CARLS,Carmella Ladies Salon,DC96088,02/10/2015,HF,1,D210544,Clinical Oatmeal 16oz,40000SSD,165,-165,453 g,Al Ain
+01CARLS,Carmella Ladies Salon,DC96088,02/10/2015,HF,4,D3824B,Dermalogica Fan/Masque Brush,40000SSD,17,-68,EACH,Al Ain
+DANPUQ,"Dana Pharmacy, Umm Al Quwain",CN06232,02/10/2015,MUHJ,-25,VNF00012,Vigormax 60's Lot#1408003 Exp10/16,40000VO,194.25,4856.25,60's,Umm Al Quwain
+DANPUQ,"Dana Pharmacy, Umm Al Quwain",CN06232,02/10/2015,MUHJ,-7,VNF00012,Vigormax 60's Lot#1408003 Exp10/16,40000VO,0,0,60's,Umm Al Quwain
+DANPUQ,"Dana Pharmacy, Umm Al Quwain",CN06232,02/10/2015,MUHJ,0,,DC95841/NOT ORDERED,40000VO,0,0,,Umm Al Quwain
+ARAWP,Al Rawdha Pharmacy,CN06233,02/10/2015,ANMT,-25,VNF00008,Megaton tabs - 100's  Lot#1311015 Exp12/15,40000VO,135,3375,<Each>,Dubai
+ARAWP,Al Rawdha Pharmacy,CN06233,02/10/2015,ANMT,-10,VNF00008,Megaton tabs - 100's  Lot#1311015 Exp12/15,40000VO,0,0,<Each>,Dubai
+ARAWP,Al Rawdha Pharmacy,CN06233,02/10/2015,ANMT,0,,Discount,40000VO,0,-1012.5,,Dubai
+ARAWP,Al Rawdha Pharmacy,CN06233,02/10/2015,ANMT,0,,DC95694/NOT REQUIRED,40000VO,0,0,,Dubai
+LAMYAP,Lamya Pharmacy LLC,CN06235,02/10/2015,JEAS,-25,VNF00008,Megaton tabs - 100's  Lot#1311015 Exp12/15,40000VO,135,3375,<Each>,Ajman
+LAMYAP,Lamya Pharmacy LLC,CN06235,02/10/2015,JEAS,-10,VNF00008,Megaton tabs - 100's  Lot#1311015 Exp12/15,40000VO,0,0,<Each>,Ajman
+LAMYAP,Lamya Pharmacy LLC,CN06235,02/10/2015,JEAS,0,,DISCOUNT,40000VO,0,-1012.5,,Ajman
+LAMYAP,Lamya Pharmacy LLC,CN06235,02/10/2015,JEAS,0,,DC95850/NOT REQUIRED,40000VO,0,0,,Ajman
+NBSP,New Bait Al Shifa Pharmacy,CN06234,02/10/2015,JEAS,-12,VNF00008,Megaton tabs - 100's  Lot#1311015 Exp12/15,40000VO,135,1620,<Each>,Dubai
+NBSP,New Bait Al Shifa Pharmacy,CN06234,02/10/2015,JEAS,-3,VNF00008,Megaton tabs - 100's  Lot#1311015 Exp12/15,40000VO,0,0,<Each>,Dubai
+NBSP,New Bait Al Shifa Pharmacy,CN06234,02/10/2015,JEAS,-12,VNF00006,Glow & Grow tabs - 60's Lot#1412004 Exp12/16,40000VO,130,1560,<Each>,Dubai
+NBSP,New Bait Al Shifa Pharmacy,CN06234,02/10/2015,JEAS,-3,VNF00006,Glow & Grow tabs - 60's Lot#1412004 Exp12/16,40000VO,0,0,<Each>,Dubai
+NBSP,New Bait Al Shifa Pharmacy,CN06234,02/10/2015,JEAS,0,,Discount,40000VO,0,-954,,Dubai
+NBSP,New Bait Al Shifa Pharmacy,CN06234,02/10/2015,JEAS,0,,DC95817/ NOT REQUIRED,40000VO,0,0,,Dubai
+125AM-CCP,City Care Pharmacy,CN06231,02/10/2015,ANMT,-12,VNF00013,Libizire 60's Lot#1311001 Exp12/15,40000VO,160.38,1924.56,60's,Dubai
+125AM-CCP,City Care Pharmacy,CN06231,02/10/2015,ANMT,0,,DC95711/SHORT EXPIRY,40000VO,0,0,,Dubai
+125AM-CCP,City Care Pharmacy,CN06231.1,02/10/2015,ANMT,-3,VNF00013,Libizire 60's Lot#1311001 Exp12/15,40000VO,0,0,60's,Dubai
+125AM-CCP,City Care Pharmacy,CN06231.1,02/10/2015,ANMT,0,,DC95712/SHORT EXPIRY,40000VO,0,0,,Dubai
+NR-NNRP,New Nadd Rashid Pharmacy,CN06236,02/10/2015,MUK,-6,VNF00038,Thom (Garlic) 60's Lot#1212002 Exp#12/14,40000VO,45,270,60's,Dubai
+NR-NNRP,New Nadd Rashid Pharmacy,CN06236,02/10/2015,MUK,-1,VNF00038,Thom (Garlic) 60's Lot#1212002 Exp#12/14,40000VO,0,0,60's,Dubai
+NR-NNRP,New Nadd Rashid Pharmacy,CN06236,02/10/2015,MUK,0,,Discount,40000VO,0,-81,,Dubai
+NR-NNRP,New Nadd Rashid Pharmacy,CN06236,02/10/2015,MUK,0,,DC94619/CANCELL,40000VO,0,0,,Dubai
+MRSP,Marina star pharmacy LLC,CN06228,02/10/2015,NS,-1,D101304,Essnt'l Cleaning Sol 250ml-R,40000SSD,149,149,<Each>,Dubai
+MRSP,Marina star pharmacy LLC,CN06228,02/10/2015,NS,0,,DISCOUNT,40000SSD,0,-37.25,,Dubai
+01ZSAMP,SAMPLES ISSUED,CN06228.1,02/10/2015,,-1,D110621,Dermal clay cleanser 250ml-R,40000SSD,0,0,<Each>,
+01ZSAMP,SAMPLES ISSUED,CN06225,02/10/2015,,-1,DV5273302,DEHC OI/Oil 135ml,40000SHDV,0,0,135ml,
+01ZSAMP,SAMPLES ISSUED,CN06225,02/10/2015,,-2,DV5787006,Invisible Serum (slept-In) 50ml,40000SHDV,0,0,50 ml,
+01ZSAMP,SAMPLES ISSUED,CN06225,02/10/2015,,-2,DV5787007,Medium Hold Pliable Paste 125ml,40000SHDV,0,0,125 ml,
+01ZSAMP,SAMPLES ISSUED,CN06225,02/10/2015,,-1,DV5787016,Sea Salt Spray 250ml,40000SHDV,0,0,250 ml,
+01ZSAMP,SAMPLES ISSUED,CN06225,02/10/2015,,-1,DV5787008,Medium Hold Finishing Gum 100ml,40000SHDV,0,0,100 ml,
+01ZSAMP,SAMPLES ISSUED,CN06225,02/10/2015,,-2,DV5787012,Medium Hold Modelling Gel 250ml,40000SHDV,0,0,250 ml,
+01ZSAMP,SAMPLES ISSUED,CN06225,02/10/2015,,-1,DV5787014,Curl Building Serum 250ml,40000SHDV,0,0,250 ml,
+01ZSAMP,SAMPLES ISSUED,CN06225,02/10/2015,,-2,DV5787015,Relaxing Mosturizing Fluid 125ml,40000SHDV,0,0,125 ml,
+01ZSAMP,SAMPLES ISSUED,CN06225,02/10/2015,,-1,DV5787010,Strong Moulding Clay 100ml,40000SHDV,0,0,100 ml,
+01ZSAMP,SAMPLES ISSUED,CN06225,02/10/2015,,-3,DV99A2084,Naturaltech Technical dossier ENG,40000SHDV,0,0,<Each>,
+01ZSAMP,SAMPLES ISSUED,CN06225,02/10/2015,,-1,DV3171195,Calming Shampoo sample sachet,40000SHDV,0,0,12*12ml,
+01ZSAMP,SAMPLES ISSUED,CN06225,02/10/2015,,-1,D113511,Renewal Lip Complex (0.3 oz),40000SSD,0,0,<Each>,
+01ZSAMP,SAMPLES ISSUED,CN06225,02/10/2015,,-1,DV99A2165,Flamboyage short meche  - kit 48 pcs- 10 X 25 cmts,40000SHDV,0,0,<Each>,
+01ZSAMP,SAMPLES ISSUED,CN06225,02/10/2015,,-1,DV99A2166,Flamboyage long meche - kit 48 pcs- 10 X 45 cmts,40000SHDV,0,0,<Each>,
+01ZSAMP,SAMPLES ISSUED,CN06225,02/10/2015,,-1,DV99A2066,Davines Veil Kit 50pcs,40000SHDV,0,0,<Each>,
+01ZSAMP,SAMPLES ISSUED,CN06225,02/10/2015,,-1,DV5787000,Strong Hold Hair Spray 400ml,40000SHDV,0,0,400 ml,
+01ZSAMP,SAMPLES ISSUED,CN06225,02/10/2015,,-1,DV5787002,Invisible No Gas Spray250ml,40000SHDV,0,0,250 ml,
+GMCPA,GMC Hospital & Research Centre,CN06230,02/10/2015,JEAS,-12,VNF00012,Vigormax 60's Lot#1311031 Exp01/16,40000VO,194.25,2331,60's,Ajman
+GMCPA,GMC Hospital & Research Centre,CN06230,02/10/2015,JEAS,-3,VNF00012,Vigormax 60's Lot#1311031 Exp01/16,40000VO,0,0,60's,Ajman
+GMCPA,GMC Hospital & Research Centre,CN06230,02/10/2015,JEAS,0,,DC95126/SUPPLIED WITHOUT LPO,40000VO,0,0,,Ajman
+TPCP,Top Care Pharmacy,CN06229,02/10/2015,MUHJ,-6,VNF00233,Lypotrim 90's Lot#1311029 Exp12/2015,40000VO,235,1410,90's,DUBAI
+TPCP,Top Care Pharmacy,CN06229,02/10/2015,MUHJ,-1,VNF00233,Lypotrim 90's Lot#1311029 Exp12/2015,40000VO,0,0,90's,DUBAI
+TPCP,Top Care Pharmacy,CN06229,02/10/2015,MUHJ,0,,Discount,40000VO,0,-423,,DUBAI
+TPCP,Top Care Pharmacy,CN06229,02/10/2015,MUHJ,0,,DC95623/CANCEL,40000VO,0,0,,DUBAI
+01TBO,The Beauty Oasis LLC,CN06227,02/10/2015,QY,-6,D111051,"PreCleanse, 5.1 oz (150 ml)",40000SSD,180,1080,150ml,Ajman
+01TBO,The Beauty Oasis LLC,CN06227,02/10/2015,QY,0,,Discount,40000SSD,0,-378,,Ajman
+01TBO,The Beauty Oasis LLC,CN06227,02/10/2015,QY,0,,DC95912/NEED PROFESSIONAL,40000SSD,0,0,,Ajman
+01ZSAMP- DTR,Davines Training Room - Samples,CN06226,02/10/2015,,-1,DV4880019,BOUCLE Perm 2 100ml,40000SHDV,0,0,100ml,
+01ZSAMP- DTR,Davines Training Room - Samples,CN06226,02/10/2015,,0,,PRODUCT TAKEN FROM TRANNING ROOM AND DELIVER TO AFRODITA SALON UNDER DC94654,40000SHDV,0,0,,
+01ZSAMP,SAMPLES ISSUED,CN06198,02/10/2015,,-2,D110541,Ultra Calming Cleanser 250ml/8oz,40000SSD,0,0,<Each>,
+04MEDIP,New Medi Plus,CN06237,02/10/2015,GM001,-50,D211037,BS Peel Prep Sol 6.0,40000SSD,73.57,3678.5,<Each>,Lahore
+04MEDIP,New Medi Plus,CN06237,02/10/2015,GM001,-50,D211038,BS Peel Enz Actv 4.0,40000SSD,73.57,3678.5,<Each>,Lahore
+04MEDIP,New Medi Plus,CN06237,02/10/2015,GM001,-100,D211039,BS Peel Acid Actv 8.0,40000SSD,73.57,7357,<Each>,Lahore
+04MEDIP,New Medi Plus,CN06237,02/10/2015,GM001,-50,D211040,BS Peel Dceleratr 6.0,40000SSD,73.57,3678.5,<Each>,Lahore
+04MEDIP,New Medi Plus,CN06237,02/10/2015,GM001,-150,D3824C,Fan Brush,40000SSD,0,0,EACH,Lahore
+04MEDIP,New Medi Plus,CN06237,02/10/2015,GM001,-50,D4835,BA Peel Fan,40000SSD,0,0,EACH,Lahore
+04MEDIP,New Medi Plus,CN06237,02/10/2015,GM001,-50,D4818INT,BS Peel merch Caddy,40000SSD,0,0,EACH,Lahore
+04MEDIP,New Medi Plus,CN06237,02/10/2015,GM001,-1800,D2024A,Plastic Mixing cup single,40000SSD,0,0,EACH,Lahore
+04MEDIP,New Medi Plus,CN06237,02/10/2015,GM001,0,,DC95952/NEED BIOACTIVE PEEL,40000SSD,0,-18392.5,,Lahore
+04MEDIP,New Medi Plus,CN06237,02/10/2015,GM001,0,,,40000SSDP,0,18392.5,,Lahore
+RIP,"Riyadh Pharmacy, Sharjah",CN06238,02/10/2015,JEAS,-25,VNF00177,Natal Care 60's Lot#1405023 Exp8/16,40000VO,75,1875,60's,Sharjah
+RIP,"Riyadh Pharmacy, Sharjah",CN06238,02/10/2015,JEAS,-6,VNF00177,Natal Care 60's Lot#1405023 Exp8/16,40000VO,0,0,60's,Sharjah
+RIP,"Riyadh Pharmacy, Sharjah",CN06238,02/10/2015,JEAS,-12,VNF00009,Jointaid tabs - 90's Lot#1402008 Exp03/16,40000VO,175,2100,<Each>,Sharjah
+RIP,"Riyadh Pharmacy, Sharjah",CN06238,02/10/2015,JEAS,-3,VNF00009,Jointaid tabs - 90's Lot#1402008 Exp03/16,40000VO,0,0,<Each>,Sharjah
+RIP,"Riyadh Pharmacy, Sharjah",CN06238,02/10/2015,JEAS,0,,Discount,40000VO,0,-1192.5,,Sharjah
+RIP,"Riyadh Pharmacy, Sharjah",CN06238,02/10/2015,JEAS,0,,DC95807/CANCEL,40000VO,0,0,,Sharjah
+01YAS,World of Esthetics Beauty Salon Yas Mal,CN06371,02/10/2015,GM001,-3,DV3373269,MOMO/serum moisturizing curl enhancing serum 150ml,40000SHDV,39,117,150ml,Abu Dhabi
+01YAS,World of Esthetics Beauty Salon Yas Mal,CN06371,02/10/2015,GM001,0,,CONDITION NOT GOOD/LOOKS OLD,40000SHDV,0,0,,Abu Dhabi
+01YAS,World of Esthetics Beauty Salon Yas Mal,CN06371,02/10/2015,GM001,0,,,40000SHDV,0,-117,,Abu Dhabi
+01YAS,World of Esthetics Beauty Salon Yas Mal,CN06371,02/10/2015,GM001,0,,,40000SHDVYM,0,117,,Abu Dhabi
+01RADBC,Radiance Beauty Center,DC96089,02/10/2015,HF,1,DV2161085,A New Color Violet 60ml,40000SHDV,0,0,60ml,Al Ain
+01RADBC,Radiance Beauty Center,DC96089,02/10/2015,HF,1,DV2161046,New Colour Cream Base 400ml,40000SHDV,0,0,400ml,Al Ain
+01RADBC,Radiance Beauty Center,DC96089,02/10/2015,HF,0,,Complimentary,89000,0,0,,Al Ain
+04MEDIP,New Medi Plus,DC96078,02/10/2015,GM001,50,D210908,BA Peel Prep Solution 6.0,40000SSD,95.55,-4777.5,<Each>,Lahore
+04MEDIP,New Medi Plus,DC96078,02/10/2015,GM001,100,D210909,BA Peel Acid Actv 8.0,40000SSD,181.55,-18155,<Each>,Lahore
+04MEDIP,New Medi Plus,DC96078,02/10/2015,GM001,50,D210911,BA Peel Enzyme Active 4.0,40000SSD,124.22,-6211,<Each>,Lahore
+04MEDIP,New Medi Plus,DC96078,02/10/2015,GM001,50,D210912,BA Peel Decelerator 6.0,40000SSD,95.55,-4777.5,<Each>,Lahore
+04MEDIP,New Medi Plus,DC96078,02/10/2015,GM001,50,D4835,BA Peel Fan,40000SSD,10.75,-537.5,EACH,Lahore
+04MEDIP,New Medi Plus,DC96078,02/10/2015,GM001,150,D3824C,Fan Brush,40000SSD,10.27,-1540.5,EACH,Lahore
+04MEDIP,New Medi Plus,DC96078,02/10/2015,GM001,1800,D2024A,Plastic Mixing cup single,40000SSD,3.11,-5598,EACH,Lahore
+04MEDIP,New Medi Plus,DC96078,02/10/2015,GM001,50,D4751,BA Peel Timing Manual,40000SSD,4.54,-227,EACH,Lahore
+04MEDIP,New Medi Plus,DC96078,02/10/2015,GM001,50,D4818INT,BS Peel merch Caddy,40000SSD,74.05,-3702.5,EACH,Lahore
+04MEDIP,New Medi Plus,DC96078,02/10/2015,GM001,0,,Deal Discount,40000SSD,0,14950.5,,Lahore
+04MEDIP,New Medi Plus,DC96078,02/10/2015,GM001,0,,,40000SSD,0,30576,,Lahore
+04MEDIP,New Medi Plus,DC96078,02/10/2015,GM001,0,,,40000SSDP,0,-30576,,Lahore
+01ZSAMP- PR- DAV,Samples Davines - PR,DC96090,02/11/2015,,1,DV3273223,NOUNOU pak =  Nourishing Repairing Mask 75ml,40000SHDV,0,0,75ml,
+QTech,Q Tech for General Trading LLC,DC96091,02/11/2015,,1,LK1547482,Straight serum 300 ml.,40000SHLK,38.69,-38.69,300ml,DUBAI
+EXCJLT,Excellture,DC96092,02/11/2015,,1,DV3275000,NOUNOU shampoo = Nourishing Illuminating Shampoo  250ml,40000SHDV,41.25,-41.25,250ml,DUBAI
+EXCJLT,Excellture,DC96092,02/11/2015,,1,DV3273298,NOUNOU conditioner = Nourishing Illuminating Cream 250ml,40000SHDV,44,-44,250ml,DUBAI
+EXCJLT,Excellture,DC96092,02/11/2015,,1,DV2971168,Detoxifying Scrub Shampoo250ml,40000SHDV,63.25,-63.25,250 ml,DUBAI
+EXCJLT,Excellture,DC96092,02/11/2015,,0,,,40000SHDV,0,148.5,,DUBAI
+EXCJLT,Excellture,DC96092,02/11/2015,,0,,,40000SHDVW,0,-148.5,,DUBAI
+126NLP,Nature's Life Pharmacy,DC96093,02/11/2015,NS,1,D110709,Intensive Eye Repair 15ml,40000SSD,209,-209,<Each>,DUBAI
+126NLP,Nature's Life Pharmacy,DC96093,02/11/2015,NS,2,D110625,Intensive Moisture Bal 100ml,40000SSD,255,-510,<Each>,DUBAI
+126NLP,Nature's Life Pharmacy,DC96093,02/11/2015,NS,1,D110662,Total Eye Care  15ml,40000SSD,209,-209,<Each>,DUBAI
+126NLP,Nature's Life Pharmacy,DC96093,02/11/2015,NS,1,D110634,Solar Defense Booster SPF50 1.7oz,40000SSD,209,-209,<Each>,DUBAI
+126NLP,Nature's Life Pharmacy,DC96093,02/11/2015,NS,0,,Discount,40000SSD,0,284.25,,DUBAI
+126NLP,Nature's Life Pharmacy,DC96094,02/11/2015,NS,1,D110940,Breakout Clearing Overnight Treatment 2.0 oz. (60ml),40000SSDCS,80,-80,60ml,DUBAI
+126NLP,Nature's Life Pharmacy,DC96094,02/11/2015,NS,0,,Discount,40000SSDCS,0,20,,DUBAI
+MISC,Cash Customers,DC96095,02/11/2015,GM001,2,D211596,Active Moist 177ml,40000SSD,165,-330,<Each>,Dubai
+MISC,Cash Customers,DC96095,02/11/2015,GM001,2,D210616,Multi-Active Toner 473ml-P,40000SSD,110,-220,<Each>,Dubai
+MISC,Cash Customers,DC96095,02/11/2015,GM001,1,D206151,Soothing Eye MakeUp Rmvr 237ml,40000SSD,98,-98,<Each>,Dubai
+MISC,Cash Customers,DC96095,02/11/2015,GM001,1,D211062,M/V Power Firm 2.5oz,40000SSD,275,-275,<Each>,Dubai
+MISC,Cash Customers,DC96095,02/11/2015,GM001,1,D210541,Ultra Calming Cleanser 32oz,40000SSD,185,-185,<Each>,Dubai
+MISC,Cash Customers,DC96095,02/11/2015,GM001,1,D210543,Barrier Repair 4oz,40000SSD,185,-185,<Each>,Dubai
+MISC,Cash Customers,DC96095,02/11/2015,GM001,1,D210700,Daily Microfoliant 6oz,40000SSD,176,-176,<Each>,Dubai
+MISC,Cash Customers,DC96096,02/11/2015,GM001,1,D110662,Total Eye Care  15ml,40000SSD,209,-209,<Each>,Dubai
+MISC,Cash Customers,DC96096,02/11/2015,GM001,0,,Discount,40000SSD,0,73.15,,Dubai
+RAMAP,Ramada Pharmacy,DC96097,02/11/2015,ANMT,12,N0011,Nisim Shampoo-Normal to Oily 8oz,40000SHN,79,-948,each,Dubai
+RAMAP,Ramada Pharmacy,DC96097,02/11/2015,ANMT,3,N0011,Nisim Shampoo-Normal to Oily 8oz,40000SHN,0,0,each,Dubai
+RAMAP,Ramada Pharmacy,DC96097,02/11/2015,ANMT,12,N0012,Nisim Shampoo - Normal to Dry 8oz,40000SHN,79,-948,each,Dubai
+RAMAP,Ramada Pharmacy,DC96097,02/11/2015,ANMT,3,N0012,Nisim Shampoo - Normal to Dry 8oz,40000SHN,0,0,each,Dubai
+RAMAP,Ramada Pharmacy,DC96097,02/11/2015,ANMT,6,N0021,Nisim Conditioner-Finishing Rinse 8oz,40000SHN,79,-474,each,Dubai
+RAMAP,Ramada Pharmacy,DC96097,02/11/2015,ANMT,1,N0021,Nisim Conditioner-Finishing Rinse 8oz,40000SHN,0,0,each,Dubai
+RAMAP,Ramada Pharmacy,DC96097,02/11/2015,ANMT,6,N0022,Nisim Conditioner-Oil Free  8oz,40000SHN,79,-474,each,Dubai
+RAMAP,Ramada Pharmacy,DC96097,02/11/2015,ANMT,1,N0022,Nisim Conditioner-Oil Free  8oz,40000SHN,0,0,each,Dubai
+RAMAP,Ramada Pharmacy,DC96097,02/11/2015,ANMT,3,N0033,Nisim Extract - Original 2oz,40000SHN,79,-237,each,Dubai
+RAMAP,Ramada Pharmacy,DC96097,02/11/2015,ANMT,0,,Discount,40000SHN,0,924.3,,Dubai
+NAUP,Nour Al Huda pharmacy,DC96098,02/11/2015,MSAM,6,VNF00009,Jointaid tabs - 90's Lot#1402008 Exp03/16,40000VO,175,-1050,<Each>,Sharjah
+NAUP,Nour Al Huda pharmacy,DC96098,02/11/2015,MSAM,1,VNF00009,Jointaid tabs - 90's Lot#1402008 Exp03/16,40000VO,0,0,<Each>,Sharjah
+NAUP,Nour Al Huda pharmacy,DC96098,02/11/2015,MSAM,0,,Discount,40000VO,0,315,,Sharjah
+01LE,Lydia Espin/Essa Beauty,DC96099,02/11/2015,JMD,2,D111030,M/Vit Thermofoliant 75ml 2.5oz,40000SSD,225,-450,<Each>,Dubai
+01LE,Lydia Espin/Essa Beauty,DC96099,02/11/2015,JMD,4,D111049,Dynamic Skin Recovery SPF50 1.7oz,40000SSD,319,-1276,50ml,Dubai
+01LE,Lydia Espin/Essa Beauty,DC96099,02/11/2015,JMD,1,D110207,Overnight Repair Serum 0.5,40000SSD,395,-395,<Each>,Dubai
+01LE,Lydia Espin/Essa Beauty,DC96099,02/11/2015,JMD,1,D110613,MultiVitamin Power Serum 0.75oz (22ml),40000SSD,348,-348,22ml,Dubai
+01LE,Lydia Espin/Essa Beauty,DC96099,02/11/2015,JMD,1,D101511,Skin Resurfacing Cleanser (5.1 oz),40000SSD,189,-189,<Each>,Dubai
+01LE,Lydia Espin/Essa Beauty,DC96099,02/11/2015,JMD,1,D102021,Antioxidant HydraMist (5.1 oz),40000SSD,189,-189,<Each>,Dubai
+01LE,Lydia Espin/Essa Beauty,DC96099,02/11/2015,JMD,1,D110522,Tri-Active Cleanse 5.1,40000SSD,189,-189,<Each>,Dubai
+01LE,Lydia Espin/Essa Beauty,DC96099,02/11/2015,JMD,1,D101104,Special Cleansing Gel 250mlR,40000SSD,149,-149,<Each>,Dubai
+01LE,Lydia Espin/Essa Beauty,DC96099,02/11/2015,JMD,1,D111051,"PreCleanse, 5.1 oz (150 ml)",40000SSD,180,-180,150ml,Dubai
+01LE,Lydia Espin/Essa Beauty,DC96099,02/11/2015,JMD,1,D106122,Overnight Clearing Gel 1.7oz,40000SSD,189,-189,<Each>,Dubai
+01LE,Lydia Espin/Essa Beauty,DC96099,02/11/2015,JMD,0,,Discount,40000SSD,0,1243.9,,Dubai
+01LE,Lydia Espin/Essa Beauty,DC96100,02/11/2015,JMD,1,D110910,Breakout Clearing Foaming Wash 6.0 oz (177ml),40000SSDCS,80,-80,177 ML,Dubai
+01LE,Lydia Espin/Essa Beauty,DC96100,02/11/2015,JMD,0,,Discount,40000SSDCS,0,28,,Dubai
+01WSSLR,Wanida Sanctuary Spa & Ladies Retreat,DC96101,02/11/2015,KXAN,9,J04010700,32058 PP Rfil Gold Compact,40000JI,45.5,-409.5,0,AJMAN
+01WSSLR,Wanida Sanctuary Spa & Ladies Retreat,DC96101,02/11/2015,KXAN,1,J04012803,12003 PP Rfil Warm Silk,40000JI,113.75,-113.75,0,AJMAN
